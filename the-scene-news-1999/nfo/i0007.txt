@@ -1,0 +1,88 @@
+                        Wacky's ISO General Information                          
+------------------------------------------------------------------------------
+                                                ‹‹‹‹‹‹‹‹‹
+    .  ‹  ﬂ  ﬂ ˛‹‹ﬂﬂ€‹                   ‹  ﬂ  ﬂ ˛‹‹‹‹‹ ﬂ€‹‹  ASCII Nv_
+    ˛ ˛         ∞ﬂ€€‹ﬂ€‹‹‹‹‹           ﬂ  ﬂﬂﬂﬂﬂﬂ€‹  ﬂ€€€≤‹ €‹‹‹‹‹
+    ‹ ±      ‹‹˛∞∞ﬁ€€≤‹  ‹ €‹‹‹‹‹ ‹‹‹ﬂ  ‹€≤€‹ﬂﬂ€‹‹≤   ∞ﬂ€€≤  ∞‹∞€‹ €ﬂﬂﬂﬂ€
+    ‹ ∞ ‹‹€€€ﬂ   ∞∞€€€≤‹ €‹  ‹‹‹ﬂﬂﬂ‹ﬂﬂ‹€€€€€≤€‹ﬁ€€€≤ ∞∞ﬁ€€≤› ∞ﬁ€›  €ﬁ€€›€
+    ﬂ ‹€€€€≤›    ∞∞ﬁ≤€€≤ﬁ€€€˛ﬂﬂ€€‹˛  ﬁ€€€€ﬂﬂ€€≤›€€€› ∞‹€€≤€ ∞∞≤€€  ‹∞€€€ﬁ›
+    €ﬁ€€€€≤€      ∞∞≤€€€ﬁ€≤€› ∞€€≤€‹˛€€€€›∞  ﬂﬂﬁ€€€ ∞€€€≤€›∞∞ﬁ€€€  ﬂ∞€€≤›€
+   ﬁ›€€€€€≤›    ‹ ∞∞ﬁ≤€€ﬁ€≤€€‹‹€€€≤€ﬁ€€€€∞∞∞    €€€€‹€€€€ﬂ∞∞ €≤€€› ﬂﬁ€€€≤ﬁ›
+    €ﬁ≤€€€€≤‹ ‹€€€‹‹≤€€€ﬁ€≤€€ﬂﬂ€€€€≤›≤€€€›∞∞∞∞  ﬁ€€€€€€€∞∞   ﬁ€€€€∞‹€€€≤›€
+    €‹ﬂﬂ≤€€€≤€€ﬂ ﬂ€€€€€›ﬁ€≤€› ∞€€€€≤€ﬁ≤€€€‹∞∞‹€›≤€€€ﬂ€€€≤‹‹   ﬂﬂ€€€€€€≤€ ‹
+     ﬂﬂ€‹‹ﬂﬂ€≤‹€ﬂ€ ﬂ€€€ ﬁ€≤€› ∞€€€€€≤›ﬂ≤≤€€€€€€ﬁ≤€€€∞€€€€€ﬁ€‹‹‹   ﬂ∞€€€› ﬂ
+      ˙ƒƒÕÕ€ €≤ÕÕﬂﬂ€ ﬂ˛‹€€€€€‹∞∞ﬂﬂ€€€€‹∞ﬂ≤€€ﬂﬂ‹≤€€€ﬂ∞∞ﬂ€€≤›€≤€€€€‹∞ﬁ€€€  ﬂ
+            €≤   ﬂ €‹‹‹‹‹‹‹‹‹‹€ﬂﬂ€‹‹‹‹‹€‹‹‹‹€‹‹‹‹‹‹€ﬂﬂ€‹ﬂﬂ  ﬂﬂ≤€€€€≤€€   ˛
+            ≤    €‹‹‹‹ ˛ THE WACKY RELEASING 98'˛   ‹‹ ‹ﬂﬂﬂﬂﬂ ﬂ ﬂﬂﬂﬂﬂ    .
+            ≥        ﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂ
+            ˙
+------------------------------------------------------------------------------
+ Proudly Presents ..
+------------------------------------------------------------------------------
+
+  .;--------------------------------------------------------------------;.
+ -     Title :  Airport 2000 Vol.1  **MS FLIGHT SIMULATOR 98 **ADDON**  -
+ .;----------------------------------------------------------------------;.
+      Supplier :  BriXX              ;  Packager:  Etarip
+      Platform :  PC                 ;  Type    :  [ADDON]
+      Language :  English            ;  Display :      
+      Disk #   :  6*15 megs          ;  Date    :  18.12.98.
+   ;--------------------------------------------------------------------;
+   ; Rating | 0 **********************************************##### 100 ;
+   ;--------------------------------------------------------------------;
+   ,.,;'`';,.,.,;'`';,.,.,;'`';,.,.,;'`';,.,.,;'`';,.,.,;'`';,.,.,;'`';,.
+
+ ;------------------------------------------------------------------------;
+` # Release Info.                                                          '
+';------------------------------------------------------------------------;`
+					 
+ A new generation of airports.Leading edge technology provides incredible 
+detail  -  no more approximate ,  lifeless representations of your Flight 
+Simulator airports!  Fly  to  and  from  7 major  international airports . 
+Each airport  contains true - to - life buildings  with  textured aircraft 
+and vehicles. So  real  you  can  actually see passengers waiting to board 
+inside the terminal! 
+
+Includes the following airports :
+Belgium: Brussels Zaventem  
+USA : New York JFK 
+Germany: Frankfurt Main  
+USA : Atlanta Hartsfield 
+France: Paris Charles de Gaulle 
+USA : Los Angeles International 
+Japan: Tokyo Narita 
+Experience real airport traffic - no more deserted taxiways and terminals. 
+
+Check for more nfo : http://www.wilcopub.com/a2000/a2000.html 
+ ;------------------------------------------------------------------------;
+` # Wacky News                                                             '
+';------------------------------------------------------------------------;`
+       Welcome to news members...
+
+					Wackyiso Team.
+
+     
+ ;------------------------------------------------------------------------;
+` # Wacky Info.                                                             '
+';------------------------------------------------------------------------;`
+  --------- Wanted ---------
+  . Suppliers       : If you work in a game/computer store or anyhow
+                     if you are able to get PSX US/Jap or PC images
+                     as soon as they're out, Contact us please.
+
+  . Shell Suppliers : If you're running a shellbox with fast(T1+) connect
+                     -tion, we need you. Contact us please!
+
+  . Siteops         : Siteops with T1+ connection/running linux ftp daemon
+                     are welcome. Positions are open.
+
+  . Couriers        : If you want to be a courier for our group and are
+                     willing to do hard works for wacky, contact us.
+
+ ;------------------------------------------------------------------------;
+` # Greet goes to....                                                      '
+';------------------------------------------------------------------------;`
+   Accession, Consolex, Kalisto, Nes, Nil, more groups/ppl I forgot....
+  and ppl who contribute this scene to be alive.
+
+  ..... Any suggestions? Need contact? mail us to wackyiso@hotmail.com
