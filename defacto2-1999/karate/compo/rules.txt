@@ -1,0 +1,19 @@
+karatecompo maintained by zalza
+(zalza@telia.com)
+
+
+karatecompo rules: 
+
+channel limits - u can only use 14 channels.
+time limits    - u have one hour to compose.
+lenght limits  - your tune can be at most,  3min long.
+sample rules   - use the samples given.
+
+
+voting:
+
+u have to vote like this.
+
+(ranking "1,2,3,4,5,6, .. ..") artistname, songtitle
+
+send your vote´s to me trugh a "txt-file" or "dcc".    

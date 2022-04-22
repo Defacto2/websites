@@ -1,0 +1,90 @@
+<html>
+<head></head>
+<body bgcolor="#FFFFFF" text="#000000" link="#2F6AB3" vlink="#2F6AB3" alink="#FFA500" TOPMARGIN="0" LEFTMARGIN="0">
+
+<style type="text/css">
+<!--
+A:link {text-decoration: none} A:visited {text-decoration: none}
+A:active {text-decoration: none}
+-->
+<style>
+ 	A:hover {color: blue;}
+ 	A:hover {color: orange;}
+</style>
+
+<center><table WIDTH="620" border=0><tr><td>
+<!--#include virtual="portal-menu.html"-->
+<p>
+
+<center><table BORDER=0 WIDTH="600" >
+<tr>
+<td BGCOLOR="#0000FF"><b><font face="verdana"><font color="white"><font size=-1>&nbsp;
+The Scene Portal - The HiRes Scene&nbsp;</font></font></font></b></td>
+</tr>
+</table></center>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The HiRes Scene - Groups</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://www.acid.org">Acid</a><br>
+<a href="http://kaoz.org/bm/">Black Maiden</a><br>
+<a href="http://www.blade.org">Blade Productions</a><br>
+<a href="http://www.casair.com">Casair</a><br>
+<a href="http://www.creators.org">CIA - (Creators of Intense Art)</a><br>
+<a href="http://www.darkillustrated.org/">Dark Illustrated</a><br>
+<a href="http://www.ice.org">ICE Productions</a><br>
+<a href="http://infidels.kracked.com">Infidels</a><br>
+<a href="http://www.mindgfx.net">Mind Blown GFX</a><br>
+<a href="http://mistigris.cjb.net">Mistigris</a><br>
+<a href="http://www.purg.com">Purg Productions</a><br>
+<a href="http://www.freespeech.org/pfc/">PFC - Power Flower Crew</a><br>
+<a href="http://www.teleplex.net/wildcat/rca/">RCA</a><br>
+</ul>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The HiRes Scene - News</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://www.acheron.org/">Acheron</a><br>
+<a href="http://www.hirez.org/">HiRez</a><br>
+</ul>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The HiRes Scene - Archives and Resources</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://artpacks.acid.org/">Artpacks @ Acid</a><br>
+<a href="http://www.hornet.org">Hornet</a><br>
+</ul>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The HiRes Scene - Electronic Magazines</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://kaoz.org/beam/">Bare Electronic Art Magazine</a><br>
+</ul>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The HiRes Scene - Promotion</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://www.artcore.com">Artcore</a><br>
+</ul>
+
+<p>
+</center>
+</td></tr></table><center>
+<br>
+<!--#include virtual="copyright.html"-->
+</center></td><td WIDTH="0"></td>
+</tr>
+</table>
+<p>
+<br>
+</td>
+</tr>
+</table></center>
+
+</body>
+</html>

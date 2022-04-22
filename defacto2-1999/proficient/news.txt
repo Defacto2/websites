@@ -1,0 +1,2 @@
+NEWS;5-Sep-1999;Proficient 3.10 News;http://www.geocities.com/athens/5526;ipggi@defacto2.net;Proficient 3.10 Patch is in the works. Please;3.10;report known bugs so they can be patched.
+!END!

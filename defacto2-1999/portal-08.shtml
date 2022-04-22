@@ -1,0 +1,248 @@
+<html>
+<head></head>
+<body bgcolor="#FFFFFF" text="#000000" link="#2F6AB3" vlink="#2F6AB3" alink="#FFA500" TOPMARGIN="0" LEFTMARGIN="0">
+
+<style type="text/css">
+<!--
+A:link {text-decoration: none} A:visited {text-decoration: none}
+A:active {text-decoration: none}
+-->
+<style>
+ 	A:hover {color: blue;}
+ 	A:hover {color: orange;}
+</style>
+
+<center><table WIDTH="620" border=0><tr><td>
+<!--#include virtual="portal-menu.html"-->
+<p>
+
+<center><table BORDER=0 WIDTH="600" >
+<tr>
+<td BGCOLOR="#0000FF"><b><font face="verdana"><font color="white"><font size=-1>&nbsp;
+The Scene Portal - The Demo Scene&nbsp;</font></font></font></b></td>
+</tr>
+</table></center>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The Demo Scene - News, Resources and Archives</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://www.jerware.org/fanclub/">PC Demo Fanclub</a><br>
+<a href="http://sunsite.auc.dk/demoscene/links/">Demo Scene Link Archives</a><br>
+<a href="http://www.hornet.org">Hornet</a><br>
+<a href="http://www.error-404.com">Error 404</a><br>
+<a href="http://ojuice.citeweb.net">Orange Juice</a><br>
+<a href="http://www.scene.org">Scene.ORG</a><br>
+<a href="http://www.scenenet.scene.org">Scene Net</a><br>
+<a href="http://www.scene-central.com">Scene Central</a><br>
+<a href="http://www.agt.bme.hu/hof">Demo Scene Hall Of Fame</a><br>
+<a href="http://www.the.scene.org">#thescene</a><br>
+<a href="ftp://ftp.demo.cat.hu">ftp.demo.cat.hu</a><br>
+<a href="ftp://ftp.fermi.ruc.dk">ftp.fermi.ruc.dk</a><br>
+<a href="ftp://ftp.scene.org">ftp.scene.org</a><br>
+<a href="ftp://ftp.skynet.stack.nl/pub/demos/">ftp.skynet.stack.nl</a><br>
+<a href="http://www.trebel.com">Trebel Demo Archive</a><br>
+</ul>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The Demo Scene - Country Pages</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://www.scene.at">Austria</a><br>
+<a href="http://www.demofr.org">France</a><br>
+<a href="http://www.scene.de">Germany</a><br>
+<a href="http://www.hack.gr/demo-gr">Greece</a><br>
+<a href="http://www.scene-hu.com">Hungry</a> - SceneHU<br>
+<a href="http://spike.fa.gau.hu/amiga">Hungry</a> - Hamus<br>
+<a href="http://www.kol.net/~k2demos">Korea</a><br>
+<a href="http://overflow.concepts.nl/">Netherlands</a><br>
+<a href="http://noscene.trancescape.org/">Norway</a><br>
+<a href="http://amber.bti.pl/polishscene">Poland</a><br>
+<a href="http://swedescene.tsx.org">Sweden</a><br>
+<a href="http://www.profzone.ch/vantage/list">Switzerland</a><br>
+</ul>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The Demo Scene - Parties</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://dot.tcm.hut.fi/abduction">Abduction</a><br>
+<a href="http://www.stjost.org/abort98/main.htm">Abort</a><br>
+<a href="http://www.ambience.nl">Ambience</a><br>
+<a href="http://www.promail.com/~analogue">Analogue</a><br>
+<a href="http://antiq.scene-hu.com">AnTIQ</a><br>
+<a href="http://www.assembly.org/">Assembly</a><br>
+<a href="http://bizarre.concepts.nl">Bizarre</a><br>
+<a href="http://www.bfg.org">Bytefall</a><br>
+<a href="http://www.campus-party.org">Campus</a><br>
+<a href="http://cc999.da.ru">Chaos Const. 999</a><br>
+<a href="http://www.academicus.de/cc98">Cologne Conference</a><br>
+<a href="http://www.microtec.net/~unkelben/coma.html">Coma</a><br>
+<a href="http://www.compusphere.org">Compusphere</a><br>
+<a href="http://scenest.scene-hu.com">Contest</a><br>
+<a href="http://www.scentral.demon.co.uk">Deja Vu</a><br>
+<a href="http://www.demobit.sk">Demobit</a><br>
+<a href="http://www.gathering.org/kandu/density">Density</a><br>
+<a href="http://www.dialogos.cc">Dialogos</a><br>
+<a href="http://sigma.com.au/amidomain.htm/">Digital Access</a><br>
+<a href="http://www.distance.home.ml.org">Distance</a> - Site 1<br>
+<a href="http://www.neutralzone.org/distance/">Distance</a> - Site 2<br>
+<a href="http://main.fiiu.org/dot">Dot</a><br>
+<a href="http://www.dreamhack.org">Dream Hack</a><br>
+<a href="http://www.drome.demon.nl">Drome</a><br>
+<a href="http://www.crosswinds.net/russia/~earthquake/">EarthQuake</a><br>
+<a href="http://www.elevator.labra.com">Elevator</a><br>
+<a href="http://eil.atari.org">Error In Line</a><br>
+<a href="http://www.euskalparty.org">Euskal Party</a><br>
+<a href="http://www.kaoz.org/evoke">Evoke</a><br>
+<a href="http://come.to/evroparti">Evroparti</a><br>
+<a href="http://vyhen.site.cz/fiasko99">Fiasko</a><br>
+<a href="http://goliat.eik.bme.hu/~zotya">FLAG</a><br>
+<a href="http://freeside.dr.pl">Freeside</a><br>
+<a href="http://gameland.eu.org">Gameland</a><br>
+<a href="http://www.gad.com.pl/gravity">Gravity</a> - Site 1<br>
+<a href="http://www.polbox.com/g/gravity">Gravity</a> - Site 2<br>
+<a href="http://www.skutt.pp.se/party">Halloween</a><br>
+<a href="http://www.icing.net/">Icing</a><br>
+<a href="http://www.inscene.org">Inscene</a> - Site 1<br>
+<a href="http://www.analogica.com/inscene">Inscene</a> - Site 2<br>
+<a href="http://www.medianet.com.pl/~abfri/io3.htm">Intel Outside</a> - Site 1<br>
+<a href="http://www.intel.outside.4.wlocl.pl">Intel Outside</a> - Site 2<br>
+<a href="http://www.sp00lka.lublin.pl/io4">Intel Outside</a> - Site 3<br>
+<a href="http://home.pages.de/~interjam">Inter Jam</a><br>
+<a href="http://jem.rtel.fr/">JEM</a><br>
+<a href="http://jumper.scene-hu.com">Jumper</a><br>
+<a href="http://kg.portveien.no/">Kindergarden</a><br>
+<a href="http://neithernor.demo.org">Kosmo/Neithernor</a><br>
+<a href="http://karkza.just.nu">LAN Party</a><br>
+<a href="http://ltp.planet-d.net">Lucky & Tigrou</a><br>
+<a href="http://www.ms.demo.org">Mekka & Symposium</a> - Site 1<br>
+<a href="http://www.aniston-park.de/ms/">Mekka & Symposium</a> - Site 2<br>
+<a href="http://hack.amiga-cg.se/midwinter">Midwinter</a><br>
+<a href="http://www.sci.fi/~rajis/motorola-97.html">Motorola Inside</a><br>
+<a href="http://www.mov98.movement.org">Movement</a><br>
+<a href="http://www.tuhb.org">Nederkomst</a><br>
+<a href="http://neithernor.demo.org">Neithernor</a><br>
+<a href="http://www.quaternet.fr:8082/users/b/brunel/np97.htm">Netzone</a><br>
+<a href="http://www.barbeque.home.pages.de/">Nuance Barbeque Convention</a><br>
+<a href="http://wombat.ludvika.se/~ae/orneta/">Orneta</a><br>
+<a href="http://www.mygale.org/05/dadu/ptbinvit.htm">Place 2 B</a><br>
+<a href="http://www.sci.fi/~flo/">Plutonium</a><br>
+<a href="http://main.tuniv.szczecin.pl/mech/venture/index.html">Polish Summer</a><br>
+<a href="http://www.pool-position.pp.se/">Pool Position</a><br>
+<a href="http://www.moebius.qc.ca/powerconv97/">Power Convention</a><br>
+<a href="http://www.radwar.com">Radwar/Rainbow</a><br>
+<a href="http://www.rage.telnet.hu">Rage</a><br>
+<a href="http://www.remedy.dcs-graphics.se/">Remedy</a> - Site 1<br>
+<a href="http://www.remedy.nu">Remedy</a> - Site 2<br>
+<a href="http://RTS-Party.imag.fr">RTS</a><br>
+<a href="http://amber.bti.pl/rh99">Rush Hours</a><br>
+<a href="http://appendix.ml.org">Satellite</a><br>
+<a href="http://www.saturne.org/">Saturne</a><br>
+<a href="http://www.post1.com/~scenery">Scenery</a><br>
+<a href="http://www.crsn.com/ss">Scene Strike</a><br>
+<a href="http://www.siliconvention.com/">SILIconvention</a><br>
+<a href="http://www.mygale.org/~myke666">Slach</a><br>
+<a href="http://direktor.voima.jkl.fi/skenery">Skenery</a><br>
+<a href="http://www.pi.net/~SIH">Somewhere in Holland</a><br>
+<a href="http://skaro.scene.org/sb99">Spring Break</a><br>
+<a href="http://www.geocities.com/BourbonStreet/5760/">Summer Computer Conference</a><br>
+<a href="http://summer.encounter.dk">Summer Encounter</a><br>
+<a href="http://www.takeover.nl">Takeover </a><br>
+<a href="http://www.tgk.net">TGK</a><br>
+<a href="http://www.convention.com">The Convention</a><br>
+<a href="http://home4.inet.tele.dk/chevy/index.html">The Copenhagen Party</a><br>
+<a href="http://www.demoparty.com">Demoparty</a><br>
+<a href="http://www.thefeeling.net/">The Feeling</a><br>
+<a href="http://www.gathering.org">The Gathering</a><br>
+<a href="http://www.metro.it/tig98">The Italian Gathering</a><br>
+<a href="http://www.fil.univ-lille1.fr/EVENEMENTS/coding/">The Meeting</a><br>
+<a href="http://www.theparty.dk/">The Party</a><br>
+<a href="http://www.nigma.it/trip99">Trip</a> - Site 1<br>
+<a href="http://www.mediartech.com/trip">Trip</a> - Site 2<br>
+<a href="http://www.multimania.com/ukonx99">Ukonx</a><br>
+<a href="http://uc3d.bingen.net">Underground Conference</a><br>
+<a href="http://popsyteam.rtel.fr/VIP/">VIP</a><br>
+<a href="http://www.volcanicparty.com">Volcanic</a><br>
+<a href="http://people.pctrading.be/wired">Wired Party</a> - Site 1<br>
+<a href="http://inf.ml.org/wired">Wired Party</a> - Site 2<br>
+<a href="http://nl.scene.org/wired98">Wired Party</a> - Site 3<br>
+<a href="http://www.iesd.auc.dk/~dapp/workshop96">Work Shop</a><br>
+<a href="http://www.qmw.ac.uk/~amiga">World Of Amiga</a><br>
+<a href="http://www.scs-trc.net/x98/">X Party</a><br>
+</ul>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The Demo Scene - Groups</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://www.silesia.ternet.pl/~shadow/absence.htm">Absence</a><br>
+<a href="http://www.acme.scene.org">Acme</a><br>
+<a href="http://www.anthrax.com">Anthrax</a><br>
+<a href="http://astroidea.scene-hu.com">Astroidea</a><br>
+<a href="http://www.io.org/~andrewm/">Axidental Group</a><br>
+<a href="http://www.home.sol.no/morild/beam">Beam</a><br>
+<a href="http://www.blasphemy.dk">Blasphemy</a><br>
+<a href="http://bomb.citeweb.net">Bomb</a><br>
+<a href="http://www.byterapers.scene.org/">Byterapers</a><br>
+<a href="http://calodox.planet-d.net">Calodox</a><br>
+<a href="http://shad2.ifrance.com">Cocoon & Syndrome</a><br>
+<a href="http://www.jyu.fi/complex/">Complex</a><br>
+<a href="http://www.hem.passagen.se/cryonics">Cryonics</a><br>
+<a href="http://www.cubic.org/">Cubic & Seen</a><br>
+<a href="http://www.niksula.cs.hut.fi/~jmattsso/emf/emf.html">ElectroMotive Force</a><br>
+<a href="http://www.kaoz.org/ethos9">Ethos 9</a><br>
+<a href="http://www.inf.bme.hu/~exceed">Exceed</a><br>
+<a href="http://www.inet.uni-c.dk/~solon">Fudge</a><br>
+<a href="http://www.futurecrew.com/">Future Crew</a><br>
+<a href="http://www.plinge.com/sixpack">Haujobb</a><br>
+<a href="http://www.kloon.dyadel.net">Kloon</a><br>
+<a href="http://www.citeweb.net/melon/">Melon Design</a><br>
+<a href="http://www.Informatik.Uni-Oldenburg.DE/~bexxx/">n-faCToR</a><br>
+<a href="http://perso.club-internet.fr/nooon/">Noon</a> - Site 1<br>
+<a href="http://www.multimania.com/nooon">Noon</a> - Site 2<br>
+<a href="http://www.nothing.scene.org">Nothing</a><br>
+<a href="http://www.pulse.scene.org">Pulse</a><br>
+<a href="http://www.purple.dk">Purple</a><br>
+<a href="http://www.quad.nl">Quad</a><br>
+<a href="http://www.realtech.scene.org">Realtech</a><br>
+<a href="http://www.shine.scene.org/replay">Replay</a><br>
+<a href="http://www.pixel32.org">Secundum Artem</a><br>
+<a href="http://sauna.net/trauma">Trauma</a><br>
+<a href="http://www.trebel.org">Trebel</a><br>
+<a href="http://united-trackers.org">United Trackers</a><br>
+<a href="http://www.ping.be/vertigo/">Vertigo</a><br>
+<a href="http://www.vibrants.dk">Vibrants</a><br>
+</ul>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The Demo Scene - Disk Magazines</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://www.kaoz.org/beam">Beam</a><br>
+<a href="http://demojournal.planet-d.net">Demo Journal</a><br>
+<a href="http://fleur.scene-hu.com">Fleur</a><br>
+<a href="http://home.pages.de/~hugi/">Hugi</a><br>
+<a href="http://ojuice.citeweb.net">Orange Juice</a><br>
+<a href="http://www.space.ch/scene/pain">Pain</a><br>
+<a href="http://shine.scene.org">Shine</a><br>
+<a href="http://www.webtrip.ch">Trip</a><br>
+</ul>
+
+<p>
+</center>
+</td></tr></table><center>
+<br>
+<!--#include virtual="copyright.html"-->
+</center>
+</center></td><td WIDTH="0"></td>
+</tr>
+</table>
+<p>
+<br>
+</td>
+</tr>
+</table></center>
+
+</body>
+</html>

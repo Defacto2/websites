@@ -1,0 +1,4 @@
+AuthName /leaders 
+AuthType Basic 
+require valid-user 
+AuthUserFile /usr/local/apache/share/auth/6287.leaders 

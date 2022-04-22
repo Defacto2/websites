@@ -1,0 +1,236 @@
+<html>
+
+<head>
+<title>[apollo-X DemoResources] - [Tracking Tutorial]</title>
+</head>
+
+<body BGCOLOR="#0067A8" link="#FF00FF">
+<font COLOR="Yellow" SIZE="3">
+
+<p align="center"></font><font face="Haettenschweiler" size="3" color="#FFFFFF">Getting
+Started - Beginner Stadium (Cools)<br>
+<br>
+<u>-Continued</u><br>
+<br>
+<u>- Sampling</u>:<u> Theory</u> </font><font face="Haettenschweiler" size="3"
+color="#00FFFF"><br>
+</font><font face="Haettenschweiler" size="3" color="#FFFFFF"><br>
+</font><font face="Haettenschweiler" size="3" color="#FFAA0B">Let's talk about all the
+business that goes on before a sound ever <br>
+gets to your computer's memory. Sound in the air is continuously <br>
+changing, and when it gets converted to an electrical signal the <br>
+changes are still continuous. Your computer,however, can only store <br>
+numbers using a limited number of digits or precision. Continuously<br>
+varying sound is called an analogue signal. Once the computer grabs <br>
+the sound, it doesn't have enough precision to store all the <br>
+information about the sound in order to perfectly reproduce it. What<br>
+the computer has stored is called a digital signal representation. <br>
+<br>
+Your sound card captures information about an analogue sound signal <br>
+by measuring its intensity at a given instant. This corresponds to <br>
+one single point on the waveforms we've been looking at. In order <br>
+to capture an entire waveform, the measurement process must be <br>
+repeated at a high rate, usually thousands of times a second. Since <br>
+the hardware has limited speed and memory capacity, there are only <br>
+so many points it can capture. Any information between those points <br>
+is lost forever. This process of capturing the sound in small <br>
+intervals is called sampling. To play back a sound, we just reverse <br>
+the process and convert the digital samples back to an analogue <br>
+signal. Of course, the new signal will probably retain some of the <br>
+staircase effect, so the reproduction won't be perfect. <br>
+<br>
+There are four main things to consider when sampling. The sample <br>
+resolution and frequency, amplitude, and copyright (very important).<br>
+<br>
+The sample resolution is another term for the number of bits a sound<br>
+is sampled at. All trackers can handle 8-Bit samples,and most modern<br>
+ones are able to use 16-Bit samples as well. Sampling in 16-Bit will <br>
+render the better quality sound all the time. 8-Bit samples can be <br>
+difficult to distinguish from 16-Bit samples, if they are recorded <br>
+with good hardware. But most people would advise 16-Bit samples all <br>
+the time. <br>
+<br>
+The main problem with a lower resolution is that you are likely to <br>
+get some or a lot of noise, depending on the quality of your source.<br>
+The only trouble with 16-Bit samples is that they are twice as large <br>
+as 8-Bit ones. A good trick to use is to sample in 16-Bit, do all of <br>
+your editing in 16-Bit, compose with 16-Bit samples, then for the <br>
+release convert the all the samples to 8-Bit. You'll find you can <br>
+halve the size of your MOD this way (But make sure you keep a copy <br>
+of the 16-Bit version). The listener may lose a small amount of <br>
+quality, but this is usually masked by the mixing routine of the <br>
+player. This may also deter some rippers from using your samples. <br>
+<br>
+More important than the resolution of the sample when determining <br>
+quality is the sample frequency. The sample frequency refers to the<br>
+number of &quot;snapshots&quot; of the incoming sound taken per second. The <br>
+higher the sampling frequency, the better the reproduction of the <br>
+sound is. <br>
+<br>
+So just how many snapshots do we need? If you look at audio specs <br>
+much, you've seen CD sampling rates of 44.1kHz, or 44,100 samples <br>
+per second. That's a lot of snapshots! A well-known signal <br>
+processing theorem (Nyquist Theorem) says that to accurately <br>
+reproduce a signal, you have to sample at a rate at least twice <br>
+the highest frequency component in the signal. So the CD <br>
+sampling rate of 44.1kHz will capture frequencies up to <br>
+22.05kHz. <br>
+<br>
+You might be wondering what happens if you don't sample at a high <br>
+enough frequency. Well, what you get is something called aliasing.<br>
+This sinister sounding term just means that since the sample points <br>
+aren't close enough together, it looks as though you sampled a lower<br>
+frequency that really wasn't part of the original signal. Alias <br>
+frequencies are like ghosts - poltergeists really - you can't see <br>
+them but they make a lot of noise. So by sampling at too low a <br>
+rate, not only do you miss some of the high frequencies; some <br>
+of them get thrown back into the mix as unwanted guests at lower<br>
+frequencies. They are audible as background noise and distortion.<br>
+<br>
+Monitoring the volume of the incoming sound is vital to produce a <br>
+good quality sample. If your sampler uses oscilloscopes to &quot;view&quot;<br>
+the sound then make sure the waveform gets as close to the top and <br>
+bottom of the window, without flattening out (clipping). If your <br>
+sampler uses volume meters instead you want to get the sample as <br>
+near to 0 dB as possible, without going above. </font><font face="Haettenschweiler"
+size="3" color="#FFFFFF"><br>
+<br>
+<u>- Practical</u> </font><font face="Haettenschweiler" size="3" color="#00FFFF"><br>
+</font><font face="Haettenschweiler" size="3" color="#FFFFFF"><br>
+</font><font face="Haettenschweiler" size="3" color="#FFAA0B">Okay, you're probably fed up
+of reading about sampling and actually<br>
+want to do some for yourself. First of all you need some sampling <br>
+hardware; on a PC virtually every sound card in existence can do <br>
+some sort of sampling. On an Amiga or Atari you're going to need <br>
+some extra hardware on top of the built in chips. <br>
+<br>
+Sample editing isn't really that hard, it's mainly lot of trial <br>
+and error, searching for the precise point where a sound begins <br>
+and ends. It takes a long time before you'll be able to read a <br>
+waveform like a book. <br>
+<br>
+This is where tracking scores 100% over MIDI. MIDI samplers will<br>
+rarely have an accurate, easy to see waveform display,and they <br>
+don't have mice either. One of the few reasons I use Windows 95 <br>
+is for its sample editors on a nice high resolution screen. <br>
+<br>
+Start by centralising, and then normalising the sample. Then, <br>
+starting at the end of the sample zoom in and look for a point on<br>
+the centre where you think your sample ends. Always work from the <br>
+end first, as any computer will find it easier to fill an area of <br>
+memory with 0s than shifting a large chunk of memory around. If <br>
+you&#146;re using virtual memory this can speed up editing by a huge <br>
+amount. Zoom back out to the whole view, does it look like you've <br>
+marked the right place, if it does then mark from that part to the<br>
+end of the sample and delete it. Play back the sample. If it gets <br>
+cut off too soon, then either paste the cut part back in, or use <br>
+the undo function built into many sample editors. <br>
+<br>
+Centralise, and normalise again. This is because the part you <br>
+chopped off may have been off centre and/or louder than the part<br>
+you want. Zoom in, and look for where your sample begins. Cut off <br>
+anything before that. Play the sample to check you cut off the <br>
+right part, not too much and not too little. If you cut off too <br>
+much, then simply paste the data back in. <br>
+<br>
+Keep on cutting bits off, and playing the sample back, until it <br>
+sounds how you want it to sound. Do a final centralise and <br>
+normalise, and save the sound to disk. Give it a meaningful <br>
+name, if the sample is from a synthesiser preset or a Sample CD <br>
+then use the name they give it. If you use a DETAILS.TXT or <br>
+similar then update it to include this new sample. <br>
+<br>
+Take the time to tune all your samples as accurately as possible.<br>
+To do this, play a long, clear, looped sample, then move to <br>
+another channel and tune ALL your other samples to this one <br>
+sample (so they all have the same reference). Many potentially <br>
+excellent modules have been spoilt because they were poorly <br>
+tuned. Of course, this doesn't count the cases where samples are<br>
+intentionally slightly sharp or flat for effect (which should be<br>
+a rarity instead of a rule). </font><font face="Haettenschweiler" size="3" color="#FFFFFF"><br>
+<br>
+<u>- Overusing Voice Samples</u> </font><font face="Haettenschweiler" size="3"
+color="#00FFFF"><br>
+</font><font face="Haettenschweiler" size="3" color="#FFFFFF"><br>
+</font><font face="Haettenschweiler" size="3" color="#FFAA0B">An extremely common mistake
+made by even some experienced <br>
+trackers is finding a voice clip that they think sounds absolutely<br>
+great or hilarious, and sticking it into their latest song <br>
+approximately 87 times. People often do this with dance tracks.<br>
+This very frequently kills what would otherwise be some truly <br>
+great songs. No matter how funny or cool something sounds the <br>
+first time you hear it, there are only so many times you can <br>
+hear and still enjoy it. Also, music is about hearing a melody<br>
+or grooving to a cool dance beat, not hearing somebody say the <br>
+same thing over and over again, so your song shouldn't rely on<br>
+voice clips to sound good. If you delete the voice clips from <br>
+one of your songs and find that it sounds terrible without <br>
+them, that means that you relied too much on the voice clip <br>
+and don't have enough music. Using a truly funny or interesting<br>
+voice clip once or twice can make a good song great, but it <br>
+can't make a bad song good. </font><font face="Haettenschweiler" size="3" color="#FFFFFF"><br>
+<br>
+<u>- Ripping</u> </font><font face="Haettenschweiler" size="3" color="#00FFFF"><br>
+</font><font face="Haettenschweiler" size="3" color="#FFFFFF"><br>
+</font><font face="Haettenschweiler" size="3" color="#FFAA0B">There are a number of very
+important points that should be <br>
+kept in mind when ripping samples. Look for samples that sound<br>
+clear and don't have any clicking sounds at the point where it <br>
+loops. If you're looking for a sample of a real instrument, make<br>
+sure it really sounds like the instrument or else it will sound <br>
+stupid. Also, the newer the sample, the better. And finally, if <br>
+you rip samples, it helps a lot if you e-mail the person who <br>
+made them to get permission to use them, but if you don't get <br>
+permission,at least thank the person in the Sample Text. <br>
+That's just basic politeness. </font><font face="Haettenschweiler" size="3"
+color="#FFFFFF"><br>
+<br>
+<u>- Copyright</u> </font><font face="Haettenschweiler" size="3" color="#00FFFF"><br>
+</font><font face="Haettenschweiler" size="3" color="#FFFFFF"><br>
+</font><font face="Haettenschweiler" size="3" color="#FFAA0B">Following on from ripping
+comes copyrights. If you're not <br>
+planning to ever release a tune commercially then use samples<br>
+from wherever you like. It's extremely unlikely anybody will <br>
+bother chasing you when they know you won't be making any <br>
+money from it. <br>
+<br>
+If however, you eventually want to be able to release your <br>
+music, then pay close attention. If you sample individual <br>
+sounds,such as a single bass note, you should be able to get <br>
+away with it (especially if you hear the sound in a few <br>
+commercial tunes). When you sample large and/or easily <br>
+recognisable parts of any tune, get the samples checked out<br>
+before you even think about releasing yours. After all, I <br>
+don't expect you fancy paying out large sums of money just <br>
+because of one simple little sample. </font><font face="Haettenschweiler" size="3"
+color="#FFFFFF"><br>
+<br>
+<u>- Releasing</u> </font><font face="Haettenschweiler" size="3" color="#00FFFF"><br>
+</font><font face="Haettenschweiler" size="3" color="#FFFFFF"><br>
+</font><font face="Haettenschweiler" size="3" color="#FFAA0B">Once you've produced a tune
+you like, you'll probably want <br>
+other people to listen to it, give you feedback etc. The <br>
+most important thing to remember at the moment is NEVER to <br>
+publicly release your first couple of tunes. There are very<br>
+few people who are gifted enough to really make a quality <br>
+tune the first time - it's all practice and experience! Once<br>
+you have finished a tune, listen to it a couple of days <br>
+after... see whether you can view it from another point of <br>
+view. Get a couple of friends to listen to it and ask for <br>
+some constructive criticism. You know, what's good as well <br>
+as what's bad about the tune. <br>
+<br>
+When you feel ready to release a tune, probably the best way <br>
+of doing so is via the Internet. There are a number of good <br>
+sites which will allow you to upload to them, but <br>
+unfortunately most of them are incredibly busy, which makes<br>
+them very slow. If you don't have to worry about the <br>
+telephone bill, then by all means use them. If you do, then<br>
+probably the best way of releasing is to post your tune to <br>
+alt.binaries.sounds.mods. You could also set up your own web<br>
+site if you have some web space, either on your own ISP, or <br>
+on a free site provider like http://www.geocities.com <br>
+or http://www.fortunecity.com </font><font COLOR="Yellow" SIZE="3"></p>
+</font>
+</body>
+</html>

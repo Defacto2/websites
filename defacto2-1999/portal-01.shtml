@@ -1,0 +1,106 @@
+<html>
+<head></head>
+<body bgcolor="#FFFFFF" text="#000000" link="#2F6AB3" vlink="#2F6AB3" alink="#FFA500" TOPMARGIN="0" LEFTMARGIN="0">
+
+<style type="text/css">
+<!--
+A:link {text-decoration: none} A:visited {text-decoration: none}
+A:active {text-decoration: none}
+-->
+<style>
+ 	A:hover {color: blue;}
+ 	A:hover {color: orange;}
+</style>
+
+<center><table WIDTH="620" border=0><tr><td>
+<!--#include virtual="portal-menu.html"-->
+<p>
+
+<center><table BORDER=0 WIDTH="600" >
+<tr>
+<td BGCOLOR="#0000FF"><b><font face="verdana"><font color="white"><font size=-1>&nbsp;
+The Scene Portal - The RIP Scene&nbsp;</font></font></font></b></td>
+</tr>
+</table></center>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The RIP Scene - Groups</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://www.the-council.org">The Council</a><br>
+<a href="http://www.razor1911.com">Razor 1911</a><br>
+<a href="http://www.daplayersclub.com">The Players Club</a><br>
+<a href="http://www.divinegods.com">Divine</a><br>
+<a href="http://welcome.to/Warrior=hq">Warrior</a><br>
+</ul>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The RIP Scene - News</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://www.ripreviews.com/">Rip Reviews</a> - News and reviews you can use.<br>
+<a href="http://www.defacto2.net/scene-news/">The Scene News</a> - Reporting the news that matters.<br>
+<a href="http://www.churchi.com/">Churchi</a><br>
+<a href="http://www.kingxtc.com">King XTC</a><br>
+</ul>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The RIP Scene - Couriers</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://www.dataplus.se/devotion/">Devotion</a><br>
+<a href="http://www.risc2000.com/">RiSC</a><br>
+<a href="http://www.insomnia.org/">Insomnia</a><br>
+<a href="http://www.motiv8.org/">Motiv8</a><br>
+</ul>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The RIP Scene - Trainers</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://trainers.for.ourfamily.com/">Trainer World</a><br>
+</ul>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The RIP Scene - History</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://www.defacto2.net/toast/">Scene Stuff by Toast</a><br>
+<a href="http://www.defacto2.net/scene-archives/">The Scene Archives</a> - NFO's, BBStros, cracktros, detailed PC scene history and much more.<br>
+<a href="http://www.oldpiratesneverdie.com">Old Pirates Never Die</a><br>
+</ul>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The RIP Scene - Electronic Magazines</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://ppgr.webjump.com/">Prozac's Personal Gaming Report</a><br>
+<a href="http://www.multimania.com/jtf98/">Just The Facts</a><br>
+</ul>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The RIP Scene - Not Categorised</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://www.152.org">152.ORG</a><br>
+<a href="http://www.dupecheck.com">Dupe Check</a><br>
+<a href="http://www.multimania.com/hetero/mystic">Scene Diary</a><br>
+</ul>
+
+<p>
+</center>
+</td></tr></table><center>
+<br>
+<!--#include virtual="copyright.html"-->
+</center>
+</center></td><td WIDTH="0"></td>
+</tr>
+</table>
+<p>
+<br>
+</td>
+</tr>
+</table></center>
+
+</body>
+</html>

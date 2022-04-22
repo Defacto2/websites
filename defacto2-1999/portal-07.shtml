@@ -1,0 +1,76 @@
+<html>
+<head></head>
+<body bgcolor="#FFFFFF" text="#000000" link="#2F6AB3" vlink="#2F6AB3" alink="#FFA500" TOPMARGIN="0" LEFTMARGIN="0">
+
+<style type="text/css">
+<!--
+A:link {text-decoration: none} A:visited {text-decoration: none}
+A:active {text-decoration: none}
+-->
+<style>
+ 	A:hover {color: blue;}
+ 	A:hover {color: orange;}
+</style>
+
+<center><table WIDTH="620" border=0><tr><td>
+<!--#include virtual="portal-menu.html"-->
+<p>
+
+<center><table BORDER=0 WIDTH="600" >
+<tr>
+<td BGCOLOR="#0000FF"><b><font face="verdana"><font color="white"><font size=-1>&nbsp;
+The Scene Portal - The Music Scene&nbsp;</font></font></font></b></td>
+</tr>
+</table></center>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The Music Scene - Groups</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://www.noisemusic.org">Noise</a> - New Objectives In Sound Exploration<br>
+<a href="http://www.ambience.nl/logic">Logic Music</a> - Electronic music by the scene<br>
+<a href="http://phluid.acid.org">Phluid</a><br>
+<a href="http://www.chipmusic.nu/~tequila">Tequila</a><br>
+<a href="http://www.chipmusic.nu/~superstars">Superstars</a><br>
+<a href="http://www.kosmic.org">Kosmic</a><br>
+<a href="http://www.chaostheory.org">Chaos Theory</a><br>
+<a href="http://www.noisemusic.org/">Noise</a><br>
+<a href="http://www.innerverse.com/ub/">Ultra Beat</a><br>
+<a href="http://oxygene.dynip.com/">Force Ten</a><br>
+<a href="http://vivid.kosmic.org/">Vivid</a><br>
+<a href="http://theralite.avalon.hr/">Theralite</a><br>
+<a href="http://www.tdr.scene.org/">Tokyo Dawn Recordings</a><br>
+<a href="http://www.mono211.com/">Mono Sound Laboratories</a><br>
+<a href="http://www.ic.l7.net/">Immortal Coil</a><br>
+<a href="http://www.lgg.ru/~tz/frames.html">Tranzite</a><br>
+<a href="http://www.freespeech.org/pfc/">PFC - Power Flower Crew</a><br>
+<a href="http://www.energymusic.com/">Enery Music</a><br>
+</ul>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The Music Scene - Archives and Resources</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://www.chipmusic.nu">Chip Music Archive</a><br>
+<a href="http://www.scene.de">The Scene United</a> - MP3, MODS, Buzz and Archives<br>
+<a href="http://www.hornet.org">Hornet</a><br>
+<a href="http://www.united-trackers.org/">United Trackers</a><br>
+<a href="http://www.maz-sound.com/">Maz Sound Tools</a><br>
+</ul>
+
+<p>
+</center>
+</td></tr></table><center>
+<br>
+<!--#include virtual="copyright.html"-->
+</center></td><td WIDTH="0"></td>
+</tr>
+</table>
+<p>
+<br>
+</td>
+</tr>
+</table></center>
+
+</body>
+</html>

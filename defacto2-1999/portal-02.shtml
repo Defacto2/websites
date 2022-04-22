@@ -1,0 +1,70 @@
+<html>
+<head></head>
+<body bgcolor="#FFFFFF" text="#000000" link="#2F6AB3" vlink="#2F6AB3" alink="#FFA500" TOPMARGIN="0" LEFTMARGIN="0">
+
+<style type="text/css">
+<!--
+A:link {text-decoration: none} A:visited {text-decoration: none}
+A:active {text-decoration: none}
+-->
+<style>
+ 	A:hover {color: blue;}
+ 	A:hover {color: orange;}
+</style>
+
+<center><table WIDTH="620" border=0><tr><td>
+<!--#include virtual="portal-menu.html"-->
+<p>
+
+<center><table BORDER=0 WIDTH="600" >
+<tr>
+<td BGCOLOR="#0000FF"><b><font face="verdana"><font color="white"><font size=-1>&nbsp;
+The Scene Portal - The ISO Scene&nbsp;</font></font></font></b></td>
+</tr>
+</table></center>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The ISO Scene - Groups</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+
+<a href="http://www.neon-sins.com/dvniso/">Deviance ISO</a><br>
+<a href="hhttp://www.isolation.nu/">Isolation</a><br>
+<a href="http://www.risciso.com/">RiSC ISO</a><br>
+<a href="http://www.fairlight.org">Fairlight</a><br>
+<a href="http://www.razor1911.com">Razor 1911</a><br>
+</ul>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The ISO Scene - News</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://www.isonews.com">ISO News</a><br>
+</ul>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The ISO Scene - Covers</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://coverz.tsx.org">Coverz</a> - CD Covers<br>
+<a href="http://www.coversarchive.com/">The Covers Archive</a><br>
+<a href="http://www.cdcovercentral.com/">Covers Central</a><br>
+<a href="http://www.bodenit.com/~coverworld/">Covers World</a><br>
+</ul>
+
+<p>
+</center>
+</td></tr></table><center>
+<br>
+<!--#include virtual="copyright.html"-->
+</center></td><td WIDTH="0"></td>
+</tr>
+</table>
+<p>
+<br>
+</td>
+</tr>
+</table></center>
+
+</body>
+</html>

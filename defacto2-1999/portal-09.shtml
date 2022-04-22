@@ -1,0 +1,122 @@
+<html>
+<head></head>
+<body bgcolor="#FFFFFF" text="#000000" link="#2F6AB3" vlink="#2F6AB3" alink="#FFA500" TOPMARGIN="0" LEFTMARGIN="0">
+
+<style type="text/css">
+<!--
+A:link {text-decoration: none} A:visited {text-decoration: none}
+A:active {text-decoration: none}
+-->
+<style>
+ 	A:hover {color: blue;}
+ 	A:hover {color: orange;}
+</style>
+
+<center><table WIDTH="620" border=0><tr><td>
+<!--#include virtual="portal-menu.html"-->
+<p>
+
+<center><table BORDER=0 WIDTH="600" >
+<tr>
+<td BGCOLOR="#0000FF"><b><font face="verdana"><font color="white"><font size=-1>&nbsp;
+The Scene Portal - The Emulation Scene&nbsp;</font></font></font></b></td>
+</tr>
+</table></center>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The Emulation Scene - Resources</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://rpgszone.virtualave.net/">RPG Zone</a> - Lots of emulators, RPG roms, walkthroughs, screenShots, FAQ's, help, news, translations, release dates, & save games!<br>
+<a href="http://www.monroeworld.com/">Monroe World</a><br>
+<a href="http://sys2064.emulationworld.com/">SYS2064</a><br>
+<a href="http://www.emuexpo.com/">Emulation Expirence</a><br>
+<a href="http://www.vghq.com/">VGHQ.COM</a><br>
+<a href="http://www.digital-arcade.com/">Digital Arcade</a><br>
+<a href="http://www.roms.co.za/">The Roms Depot</a><br>
+<a href="http://members.aol.com/seplturax/games/">Sta's Classic Video Games</a><br>
+<a href="http://www.gothicemustation.com/">Gothic Emu Station</a><br>
+<a href="http://hjem.get2net.dk/Mayhem/">Emulation Mayhem</a><br>
+<a href="http://www.gameland.gr/">Wackers Arcade Page</a><br>
+<a href="http://www.emux.com/">EmuX</a><br>
+<a href="http://www.backyard.u-net.com/">Backyard Emulation Links</a><br>
+<a href="http://www.emuunlim.com/">Emulators Unlimited</a><br>
+<a href="http://411.speedhost.com/">The 411</a><br>
+<a href="http://www.emucamp.com/">EmuCamp</a><br>
+<a href="http://www.kinneret.co.il/stas/">Stats Emu</a><br>
+<a href="http://www.emuhq.com/">Emulation HQ</a><br>
+<a href="http://brian.emulationworld.com/">Brian's Emulation Page</a><br>
+<a href="http://www.dnai.com/~twc/">Press Start</a><br>
+</ul>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The Emulation Scene - News</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://www.davesvgc.com/">Daves Video Game Classics</a><br>
+<a href="http://www.zophar.net/">Zophar's Domain!</a><br>
+<a href="http://home2.swipnet.se/~w-28929/">EmuXpress</a><br>
+<a href="http://www.emux.com/">EmuX</a><br>
+<a href="http://www.destinationemu.com/">Destination Emulation</a><br>
+</ul>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The Emulation Scene - Roms</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://www.romlist.com/">Rom List</a><br>
+<a href="http://romfinder.com/">Rom Finder</a><br>
+<a href="http://plaza.v-wave.com/amplified/index.htm">Amplified Emulators And Roms</a><br>
+<a href="http://www.emuviews.com/">JoseQ's EmuViews</a><br>
+</ul>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The Emulation Scene - Commodore 64 Related</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://homepages.ihug.co.nz/~bjreid/">Commodore WIRE</a><br>
+<a href="http://www.emucamp.com/c64/">Lemon</a><br>
+<a href="http://jump.to/c64sports/">C64 Sports</a><br>
+</ul>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The Emulation Scene - Console Emulators</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://www.snes9x.com/">SNES 9x</a> - Super Nintendo Entertainment System (SNES)<br>
+<a href="http://www.hu6280.com/">http://www.hu6280.com/</a> - PC Engine aka TurboGrafx<br>
+<a href="http://www.lsi.usp.br/~ricardo/brsms.htm">BRSMS</a> - Sega Master System (SMS)<br>
+<a href="http://www.emucamp.com/rocknes/">Rocknes</a> - Nintendo Entertainment System (NES)<br>
+<a href="http://www.dysfunction.demon.co.uk/">Handy</a> - Atari Lynx<br>
+</ul>
+
+<p>
+<b><font face="arial" color="red"><font size=-1>&nbsp;&nbsp;The Emulation Scene - Arcade Emulators</font></font></b>
+<font face="verdana" size="-1">
+<ul>
+<a href="http://www.classicgaming.com/mame32qa/">Mame32</a> - Mame for Windows32<br>
+<a href="http://hive.speedhost.com/">Hive</a><br>
+<a href="http://www.retrocade.com/">Retrocade</a><br>
+<a href="http://www.maelstrom.net/callus/">Callus</a><br>
+<a href="http://www.rainemu.com/">RAIN</a><br>
+<a href="http://home5.swipnet.se/%7Ew-50884/emulator/rage.htm">NeoRage</a><br>
+<a href="http://www.system16.com/">System 16</a><br>
+<a href="http://mame.retrogames.com/">Mame</a> - Over 1,000 arcade games emulated<br>
+</ul>
+
+<p>
+</center>
+</td></tr></table><center>
+<br>
+<!--#include virtual="copyright.html"-->
+</center></td><td WIDTH="0"></td>
+</tr>
+</table>
+<p>
+<br>
+</td>
+</tr>
+</table></center>
+
+</body>
+</html>
