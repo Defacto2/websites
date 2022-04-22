@@ -1,0 +1,446 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>www.defacto2.net - the scene archive</title>
+<script type="text/javascript">
+    adimages = new Array("http://www.eads.com/adserve/adserve.dll/banner?GA08875,0,0","http://www.eads.com/adserve/adserve.dll/banner?GA08875,0,1","http://www.eads.com/adserve/adserve.dll/banner?GA08875,0,2","http://www.eads.com/adserve/adserve.dll/banner?GA08875,0,3")
+    adurl = new Array("http://www.eads.com/adserve/adserve.dll/link?GA08875,0,0","http://www.eads.com/adserve/adserve.dll/link?GA08875,0,1","http://www.eads.com/adserve/adserve.dll/link?GA08875,0,2","http://www.eads.com/adserve/adserve.dll/link?GA08875,0,3")
+    thisad = 0
+    imgct = adimages.length
+
+function rotate() {
+    if (document.images) {
+        if (document.adbanner.complete) {
+        thisad++
+        if (thisad == imgct) {
+        thisad = 0
+        }
+        document.adbanner.src=adimages[thisad]
+        }
+    setTimeout("rotate()", 10 * 1000)       
+    }
+}
+function newlocation() {
+    document.location.href = adurl + [thisad]
+}
+function showcontent(pageitem) {
+    if (pageitem.style.display=="") { 
+        pageitem.style.display="none";
+        document.cookie = "pageitem=close;expires=" + expireDate.toGMTString();
+    }
+    else { 
+        pageitem.style.display="";
+        document.cookie = "pageitem=open;expires=" + expireDate.toGMTString();
+    }
+}
+function mouseontitle(mouseitem) {
+    mouseitem.style.fontStyle="italic";
+}
+function mouseofftitle(mouseitem) {
+    mouseitem.style.fontStyle="normal";
+}
+function openallchapters() {
+    cracktros.style.display=""
+    trainers.style.display=""
+    emags.style.display="";
+    tmags.style.display="";
+    text.style.display="";
+    nfo.style.display="";
+    flames.style.display="";
+    bbs.style.display="";
+    games.style.display="";
+    banners.style.display="";
+    thelongstory.style.display="";
+}
+function closeallchapters() {
+    cracktros.style.display="none";
+    trainers.style.display="none"
+    emags.style.display="none";
+    tmags.style.display="none";
+    text.style.display="none";
+    nfo.style.display="none";
+    flames.style.display="none";
+    bbs.style.display="none";
+    games.style.display="none";
+    banners.style.display="none";
+    thelongstory.style.display="none";
+}
+
+function thewindow(pagetoload) {
+    secondwindow = window.open(pagetoload, 'secondwindow', 'scrollbars=yes,toolbar=no,location=no,width=620,height=400,left=40,top=40')
+    secondwindow.focus()
+}
+function areacodewindow(areaload) {
+    areacodewindow = window.open(areaload, 'areawindow', 'scrollbars=yes,toolbar=no,location=no,width=330,height=400,left=40,top=40')
+    areacodewindow.focus()
+}
+function emagswindow(emagsload) {
+    magazinewindow = window.open(emagsload, 'magazine', 'scrollbars=yes,toolbar=no,location=no,width=550,height=500,left=40,top=40')
+    magazinewindow.focus()
+}
+</script>
+
+<script type="text/javascript">
+    now = new Date
+    now = now.toLocaleString()
+    expireDate = new Date
+    expireDate.setMonth(expireDate.getMonth()+6)
+
+    hitCt = eval(cookieVal("pageHit"))
+    hitCt++
+    lastVisit =  ", the last was on " + cookieVal("pageVisit")
+    if (cookieVal("pageVisit") == 0) { lastVisit = "." }
+
+    document.cookie = "pageHit="+hitCt+";expires=" + expireDate.toGMTString()
+    document.cookie = "pageVisit="+now+";expires=" + expireDate.toGMTString()
+
+function cookieVal(cookieName) {
+    thisCookie = document.cookie.split("; ")
+    for (i=0;i<thisCookie.length;i++) {
+        if (cookieName == thisCookie[i].split("=")[0]) { return thisCookie[i].split("=")[1] }
+    }
+    return 0
+}
+
+</script>
+
+<script type="text/javascript">
+    musicrandom = new Array("song1.mdz","song2.mdz","song3.mdz","song4.mdz","song5.mdz","song6.mdz","song7.mdz","song8.mdz","song9.mdz")
+    musicct = musicrandom.length
+    rannumber = Math.floor(Math.random() * musicct)
+    musicsong = "music/" + musicrandom[rannumber]
+</script>
+
+<style type="text/css">
+    body {}
+    text: {color:black;}
+    a:link {text-decoration:none;color:#4040FF;}
+    a:visited {text-decoration:none;color:#4040FF;}
+    a:active {text-decoration:none;color:#4040FF;}
+    a:hover {background-color:#FFF9EB;}
+
+    .normaltext {font-family:verdana;font-size:9pt;color:black;}
+    .headings {font-family:Arial;font-size:12pt;color:#637897;font-weight:bold;font-style:normal;}
+    .infotext {font-family:verdana;font-size:10pt;color:black;text-align:justify;}
+    .copytext {font-family:verdana;font-size:7pt;color:black;text-align:justify;}
+</style>
+
+<style type="text/css">
+ body.c52 {background:black;}
+ table.c51 {background:#FEF0CF;border-width:medium;border-style:outset;border-color:#bbb9bb;}
+ table.c50 {background:#FEF0CF;width:560;border-width:medium;border-style:outset;border-color:#bbb9bb;}
+ span.c49 {text-align:center;width:100%;}
+ span.c48 {text-align:justify;width:100%;}
+ span.c47 {font-family:verdana;font-size:8pt;color:black;text-align:center;width:100%;}
+ span.c46 {position:relative;width:100%;font-family:arial;font-size:8pt;text-align:right;color:black;}
+ div.c45 {display:none;}
+ div.c44 {margin-left: 2em}
+ span.c43 {cursor:hand;text-transform:none;}
+ table.c42 {position:relative;font-family:arial;width:100%;font-size:8pt;text-align:left;color:black;}
+ td.c41 {text-align:right;}
+ div.c40 {text-align: center}
+</style>
+</head>
+<!--
+ style="background: url('images/background.jpg');
+-->
+<body onload="rotate()" class="c52">
+<table border="0" cellpadding="12" cellspacing="0" class="c50" align="center">
+<tr>
+<td>
+<div class="c40"><a href="javascript:newlocation()"><img src="http://www.eads.com/adserve/adserve.dll/banner?GA08875,0,0" name="adbanner" border="1" /></a></div>
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="right"><img src="images/df2-arch-one-yellow.jpg" width="372" height="90" /></td>
+<td><!--webbot bot="ImageMap" startspan
+        rectangle=" (9,36) (128, 84)  mailto:archive@defacto2.net"
+        src="images/df2-news-last.jpg" border="0" width="135"
+        height="90" --><map id="FrontPageMap0" name="FrontPageMap0">
+<area shape="RECT" coords="9, 36, 128, 84" href="mailto:archive@defacto2.net" />
+</map><img src="images/df2-news-last-yellow.jpg" border="0" width="135" height="90" usemap="#FrontPageMap0" /><!--webbot bot="ImageMap"
+        i-checksum="6110" endspan --></td>
+</tr>
+</table>
+
+<p /><span class="headings">Introduction</span><br />
+ <span class="normaltext"><em>"The Scene Archive, a web site who's goal is to document the pass for the future"</em> Site Manager: <a href="mailto:archive@defacto2.net">Ipggi</a><br />
+Site Hosting: <a href="http://www.defacto2.net">Defacto2.net</a> Contributors: Bk, Cybacolt, Ek, Lek, Mead, Neofish, Skateguy, Strooper, Pst, Saint Tok, Aldog, Radman and Toast.</span>
+<script type="text/javascript">
+document.write("You have visited us " + hitCt + " times" + lastVisit)
+</script>
+
+  <a id="top" name="top"></a>
+<hr />
+<table cellpadding="0" cellspacing="0" class="c42">
+<tr>
+<td>Click on a heading below to expand</td>
+<td class="c41">[<a href="javascript:closeallchapters()">close all</a>][<a href="javascript:openallchapters()">open all</a>][<a href="#end">goto end</a>]</td>
+</tr>
+</table>
+
+<span class="headings c43" id="tcracktros" onclick="showcontent(cracktros)" onmouseover="mouseontitle(tcracktros)" onmouseout="mouseofftitle(tcracktros)">Cracktros</span><br />
+ 
+
+<div class="infotext c45" id="cracktros">Cracktros are an important part of the scene giving groups the opportunities to show off their talents to competing groups. The first cracktros where done on the Commodore 64 in the early eighties, but it was Bentley Sidewell Productions and Crackers In Action which introduced the cracktros to the PC format. Originally the cracktros where used to show off the cracker's coding ability, the eye candy and file size where most important features of these
+works. 
+
+<div class="c44">[<a href="ftp://ftp.defacto2.net/scene-archive/Cracktro-Pack-083099.zip">Download</a>] Cracktro Pack #1 [167 cracktros] (15.5MB)<br />
+[<a href="javascript:thewindow('cracktros.html')">Open</a>] Cracktro Pack Webpage</div>
+
+<hr />
+</div>
+
+<span class="headings c43" id="ttrainers" onclick="showcontent(trainers)" onmouseover="mouseontitle(ttrainers)" onmouseout="mouseofftitle(ttrainers)">Trainers</span><br />
+ 
+
+<div class="infotext c45" id="trainers">Trainers are small programs that enable you to cheat within games. These programs are usually loaded into the computer's memory and are triggered when you press selected keys during the game. The keys gives you extra options not intended by the games creators such as the ability to gain extra lives, skip levels, gain new weapons and powerups ect. generally to make the game easier to play. 
+
+<div class="c44">[<a href="javascript:thewindow('trainers.html')">Open</a>] The Trainer Webpage</div>
+
+<hr />
+</div>
+
+<span class="headings c43" id="temags" onclick="showcontent(emags)" onmouseover="mouseontitle(temags)" onmouseout="mouseofftitle(temags)">Electronic Magazines (Code)</span><br />
+ 
+
+<div class="infotext c45" id="emags">Electronic magazines are literally magazines, which instead of being on print, are programmed into code. E-mags as they are affectionately known first appeared onto the PC scene in the very early nineties and where usually put out by groups on a very limited basis. These magazines usually contained many different articles and interviews on many different items but they usually all had the scene as a focus. The first non-group affiliated e-mag was Reality
+Check Network by Reality, which was also well known for creating as well as reporting the news. 
+
+<div class="c44">[<a href="javascript:thewindow('mags-timeline.html')">Open</a>] The Magazine Timeline<br />
+[<a href="javascript:emagswindow('mags-aft.html')">Open</a>] Affinity by Canadian Born Crackers (1996-1998)<br />
+[<a href="javascript:emagswindow('mags-apt.html')">Open</a>] Advanced Pirate Technology (1991-1992)<br />
+[<a href="javascript:emagswindow('mags-cor.html')">Open</a>] Corruption (1993-1994)<br />
+[<a href="javascript:emagswindow('mags-df.html')">Open</a>] Defacto (1996-1997)<br />
+[<a href="javascript:emagswindow('mags-gal.html')">Open</a>] Galactic Review (1991)<br />
+[<a href="javascript:emagswindow('mags-tge.html')">Open</a>] The Gamer's Edge (1997)<br />
+[<a href="javascript:emagswindow('mags-thr.html')">Open</a>] Humble Review by The Humble Guys FX (1991)<br />
+[<a href="javascript:emagswindow('mags-hyb.html')">Open</a>] Hybrid Christmas by Hybrid (1996)<br />
+[<a href="javascript:emagswindow('mags-ins.html')">Open</a>] Insanity by ICE (1991)<br />
+[<a href="javascript:emagswindow('mags-ll2.html')">Open</a>] Lancelot 2 by Sharp (1992)<br />
+[<a href="javascript:emagswindow('mags-rcn.html')">Open</a>] Reality Check Network by Legacy (1995-1996)<br />
+[<a href="javascript:emagswindow('mags-rcn.html')">Open</a>] Reality Check Network by Reality (1996-1997)<br />
+[<a href="javascript:emagswindow('mags-ssm.html')">Open</a>] Scooby Snack Magazine (1996-1997)<br />
+[<a href="javascript:emagswindow('mags-wav.html')">Open</a>] Wave by The Council (1995-1998)<br />
+</div>
+
+<hr />
+</div>
+
+<span class="headings c43" id="ttmags" onclick="showcontent(tmags)" onmouseover="mouseontitle(ttmags)" onmouseout="mouseofftitle(ttmags)">Electronic Magazines (Text)</span><br />
+ 
+
+<div class="infotext c45" id="tmags">Text based magazines or journals have been around for decades, and have been used to report pirate activities for nearly just as long. Now while these text magazines don't have the glitz and glam of their coded counter parts they do have a number of advantages. Ease of creation, easy of use, portability and compatibility. 
+
+<div class="c44">[<a href="javascript:emagswindow('mags-awa.html')">Open</a>] Anti Warez Association (1993)<br />
+[<a href="javascript:emagswindow('mags-bow.html')">Open</a>] Brotherhood of Warez (1994 &amp; 1999)<br />
+[<a href="javascript:emagswindow('mags-101.html')">Open</a>] Cracking 101 by Buckaroo Banzai (1990)<br />
+[<a href="javascript:emagswindow('mags-tgr.html')">Open</a>] The Game Review by Ionizer (1995-)<br />
+[<a href="javascript:emagswindow('mags-inq.html')">Open</a>] Inquisition (1995-1996)<br />
+[<a href="javascript:emagswindow('mags-ntm.html')">Open</a>] Naked Truth Magazine (1995-1996)<br />
+[<a href="javascript:emagswindow('mags-nwr.html')">Open</a>] The Net Monkey Weekly Report (1998-)<br />
+[<a href="javascript:emagswindow('mags-pir.html')">Open</a>] Pirate - "keepin' the dream alive" (1989-1990)<br />
+[<a href="javascript:emagswindow('mags-wwn.html')">Open</a>] Week In Warez Newsletter (1995)<br />
+</div>
+
+<hr />
+</div>
+
+<span class="headings c43" id="ttext" onclick="showcontent(text)" onmouseover="mouseontitle(ttext)" onmouseout="mouseofftitle(ttext)">Text Files</span><br />
+ 
+
+<div class="infotext c45" id="text">ANSI text has given people voices to spread what they need to say to hundreds or even thousands of people, easily and quickly. Text files can be created and viewed on any type of computer (very old or new) using any type of operating system with no problems. The text files list below obviously have something in relation to the pirate scene. From the first scene the Apple II, right up to the modern RIP scene. 
+
+<div class="c44">[<a href="files/text/206BUST.TXT">Read</a>] FBI create a spy BBS using The Prophecy numbers (24-Mar-94)<br />
+[<a href="files/text/206BUST2.TXT">Read</a>] Siteops say sorry about The Prophecy-Future Shock (24-Mar-94)<br />
+[<a href="files/text/3O5-BUST.TXT">Read</a>] The FBI busts in 3o5 (12-Jun-93)<br />
+[<a href="files/text/BBSBUST.TXT">Read</a>] The Sysop's Informer Source: Bay Area Bureau (18-Mar-94)<br />
+[<a href="files/text/BUST.TXT">Read</a>] 914 Warning (27-Dec-93)<br />
+[<a href="files/text/BUSTS1.TXT">Read</a>] Hopefully Kimbles' last try! (1-Dec-93)<br />
+[<a href="files/text/BYE-DET!.TXT">Read</a>] Dr. Detergent retires (15-Jun-93)<br />
+[<a href="files/text/CAUGHT.TXT">Read</a>] Caught In The Act from 'Enter' March 94 (9-Feb-92)<br />
+[<a href="files/text/CREDIT.TXT">Read</a>] The Kimble crap continues (13-Aug-94)<br />
+[<a href="files/text/FEARDEAD.TXT">Read</a>] The FEAR &amp; LOATHING in Las Vegas BBS busted! (3-Aug-93)<br />
+[<a href="files/text/FOREMAN.TXT">Read</a>] THE FOREMAN IS *NOT* A FED! (30-Mar-94)<br />
+[<a href="files/text/HOPPER.TXT">Read</a>] Bad blood, revenge is sweet (26-Mar-94)<br />
+[<a href="files/text/MANIFEST.TXT">Read</a>] The Pirate's Manifesto for 1994 (22-May-94)<br />
+[<a href="files/text/PHUK_CC.TXT">Read</a>] Calling card warnings (23-Mar-94)<br />
+[<a href="files/text/PWALAME.TXT">Read</a>] PWA caught read handed stealing cracks (28-Sep-93)<br />
+[<a href="files/text/TVBUST.TXT">Read</a>] BSA Australia busts (3-Dec-94)<br />
+[<a href="files/text/rules-final.txt">Read</a>] These rules have been ratified and approved among the 3 groups..<br />
+[<a href="files/text/PWA_the-end.txt">Read</a>] The last NFO from PWA (6-May-2000)<br />
+[<a href="files/text/carmenreadme.txt">Read</a>] The earliest NFO for the PC discovered so far (31-Dec-1986)<br />
+[<a href="files/text/about.top.txt">Read</a>] Tired of Protection, How 'bout you?<br />
+[<a href="files/text/act.txt">Read</a>] The Amatuer Crackist Tutorial Version 1.3 By Specular Vision<br />
+[<a href="files/text/applemaf.hum.txt">Read</a>] The Apple Mafia Story As Told To: Red Ghost (1986)<br />
+[<a href="files/text/arrest.fun.txt">Read</a>] GETTING BUSTED an experience and a warning<br />
+[<a href="files/text/beowulf.txt">Read</a>] Beowulf's Thoughts on the CD-RIP'ing Scene<br />
+[<a href="files/text/bustnews.txt">Read</a>] A newspaper article on two busts (1992)<br />
+[<a href="files/text/busts.txt">Read</a>] THE UNLUCKY ONES (1996)<br />
+[<a href="files/text/cDc-0200.txt">Read</a>] CULT OF THE DEAD COW #200 (1992)<br />
+[<a href="files/text/coolhand.txt">Read</a>] Message about the truth of THG busts (1992)<br />
+[<a href="files/text/copyprot.pro.txt">Read</a>] Copy protection a history and outlook (1980's)<br />
+[<a href="files/text/copyprot.txt">Read</a>] Cracking on the IBM PC (1980's)<br />
+[<a href="files/text/courier.txt">Read</a>] Why YOU Should Be a Software Courier by Dixie Flatline<br />
+[<a href="files/text/crack.txt">Read</a>] The Cracking Manual By The Cyborg (1992)<br />
+[<a href="files/text/crak1.txt">Read</a>] How to Crack by PC Magazine (Vol 15. Num 17.) (1986)<br />
+[<a href="files/text/crak2.txt">Read</a>] Example Cracks for IBM PC (1988?)<br />
+[<a href="files/text/crak4.txt">Read</a>] Cracking Self Booters for IBM PC (1988?)<br />
+[<a href="files/text/crkibms.hac.txt">Read</a>] Cracking on the IBM PC Part II<br />
+[<a href="files/text/crkibmsw.hac.txt">Read</a>] Cracking on the IBM PC Part I<br />
+[<a href="files/text/dirty.txt">Read</a>] THE DIRTY DOZEN -- An Uploaded Program Alert List (1986)<br />
+[<a href="files/text/dodontae.hum.txt">Read</a>] The Do's and Don'ts of Ascii Express (1985)<br />
+[<a href="files/text/eel_bye.txt">Read</a>] Is It Worth the Trouble? The Eel's Fairwell Address (1992)<br />
+[<a href="files/text/eel-bye.hac.txt">Read</a>] Is It Worth the Trouble? The Eel's Fairwell Address [Mdfy] (1992)<br />
+[<a href="files/text/elite.txt">Read</a>] ARE THE "ELITE" REAL PIRATES? By ZARDOZ (1991?)<br />
+[<a href="files/text/hack_ths.txt">Read</a>] The Social Organization of the Computer Underground (1989)<br />
+[<a href="files/text/howtocp2.txt">Read</a>] IBM Disk Cracking Made Simple<br />
+[<a href="files/text/humble.txt">Read</a>] The Humble Guys Request (1991)<br />
+[<a href="files/text/iaad.txt">Read</a>] How Pirate BBSs Impact on the Entire Atari Community (1993)<br />
+[<a href="files/text/inc2-nfo.txt">Read</a>] A Short From Zodact about Razor 1911 (1991)<br />
+[<a href="files/text/k00ld00d.txt">Read</a>] The thelongstory of Real K-K00L DOOD<br />
+[<a href="files/text/krack.txt">Read</a>] PIRACY BY TEACHERS?? (1986)<br />
+[<a href="files/text/leechesd.txt">Read</a>] The Leech Dictionary (1985)<br />
+[<a href="files/text/legal.gwn.txt">Read</a>] Legalised Piracy (1991)<br />
+[<a href="files/text/methods.txt">Read</a>] Techniques in Cracking<br />
+[<a href="files/text/pir1.txt">Read</a>] SOFTWARE PIRACY RAMPANT, SURVEY SHOWS (1990)<br />
+[<a href="files/text/piracy.asc.txt">Read</a>] What is Piracy? by Ron J. Goodman<br />
+[<a href="files/text/piracy.txt">Read</a>] SOFTWARE PIRACY: AN ALTERNATIVE VIEW (1990)<br />
+[<a href="files/text/pirates2.txt">Read</a>] REAL PIRATES GUIDE VOLUME III V.2<br />
+[<a href="files/text/protect.fun.txt">Read</a>] COPY-PROTECTION (1983)<br />
+[<a href="files/text/qmaster.top.txt">Read</a>] Unprotect for Quest Master!<br />
+[<a href="files/text/realbusts.hac.txt">Read</a>] The NotSoHumble Babe talks about busts (1992)<br />
+[<a href="files/text/realpira.hum.txt">Read</a>] THE REAL PIRATE'S GUIDE (1984)<br />
+[<a href="files/text/safter.hac.txt">Read</a>] The Scene, as I see it .. by Sought After (1992)<br />
+[<a href="files/text/smgone.txt">Read</a>] It's time for a quick commentary by the Shadow Master! (1996)<br />
+[<a href="files/text/starcon2.top.txt">Read</a>] Unprotect for STARCON2!<br />
+[<a href="files/text/tdt-busts.nfo.txt">Read</a>] Feb Busts; The Dream Team Temporarly Disabled<br />
+[<a href="files/text/tdtlame.txt">Read</a>] Fuck off, The Dream Team (1992)<br />
+[<a href="files/text/thetruth.txt">Read</a>] The Truth About Rapier And Some Of Their People (1997)<br />
+[<a href="files/text/truth.txt">Read</a>] More about The NotSoHumble Babe (1992)<br />
+[<a href="files/text/usabust.txt">Read</a>] USA Busts (contains various letters)<br />
+[<a href="files/text/vote.txt">Read</a>] Voting for the 1996 Hybrid emag (1996)<br />
+[<a href="files/text/warezbst.txt">Read</a>] Newspaper article on David LaMacchia bust (1993)<br />
+[<a href="files/text/warez-faq1.txt">Read</a>] The Lamahs-Guide to Pirating Software on the Internet (1994)<br />
+[<a href="files/text/warezwars.txt">Read</a>] Warez War featured in Wired (1996)<br />
+[<a href="files/text/files/flames/flame01.txt">Read</a>] Onyx from Razor 1911, about a bad crack for M&amp;M4 by TDT (1992)<br />
+[<a href="files/text/files/flames/flame03.txt">Read</a>] The Razor NFO file for their patch for Might and Magic 4 (1992)<br />
+[<a href="files/text/files/flames/flame05.txt">Read</a>] Tryanny about Naplam stealing their special Uncopyright line<br />
+[<a href="files/text/files/flames/flame06.txt">Read</a>] The Renegade Chemist retiring with a cheesy letter (1992)<br />
+[<a href="files/text/files/flames/flame07.txt">Read</a>] The Punisher calling it quits after Razor 1911 (1998)<br />
+[<a href="files/text/files/flames/flame08.txt">Read</a>] Cool Hand defends INC from Insanity electronic magazine (1991)<br />
+</div>
+
+<hr />
+</div>
+
+<span class="headings c43" id="tnfo" onclick="showcontent(nfo)" onmouseover="mouseontitle(tnfo)" onmouseout="mouseofftitle(tnfo)">NFO</span><br />
+ 
+
+<div class="infotext c45" id="nfo">NFO is short for information and is now the term used when talking about the token text file that groups include within their releases. Originally these text files only contained information about the crack included in the release. But as time progressed more information was included such as short information about the game, keyboard commands and credits to the persons involved in bring the release to the public. Eventually these text files became more
+formalised and where included as standard issue in every release a group would put out. 
+
+<div class="c44">[<a href="files/text/carmenreadme.txt">Read</a>] The earliest NFO for the PC discovered so far (31-Dec-1986)<br />
+[<a href="ftp://ftp.defacto2.net/scene-archive/NFO-Toast-Pack-2.zip">Download</a>] Toast's NFO Collection #2 (6.68MB)</div>
+
+<hr />
+</div>
+
+<span class="headings c43" id="tflames" onclick="showcontent(flames)" onmouseover="mouseontitle(tflames)" onmouseout="mouseofftitle(tflames)">Flames</span><br />
+ 
+
+<div class="infotext c45" id="flames">Competition can usually bring out the best and the worst in people. And in the scene there is intense competition between the different groups all after the same release. Here are some examples of the ugly side of the scene. Warning some of the files in this section is not suitable for children (or for adults that matter). Note: Text file flames are in the text files section. 
+
+<div class="c44">The Humble Guys insult The Renegade Chemist with some crude intros<br />
+[<a href="files/flames/flame06a.zip">Download</a>] Number 1<br />
+[<a href="files/flames/flame06b.zip">Download</a>] Number 2<br />
+[<a href="files/flames/flame06c.zip">Download</a>] Number 3<br />
+The Humble Babe gets a very gross mock photo (1991)<br />
+[<a href="files/flames/flame13.com">Download</a>]<br />
+</div>
+
+<hr />
+</div>
+
+<span class="headings c43" id="tbbs" onclick="showcontent(bbs)" onmouseover="mouseontitle(tbbs)" onmouseout="mouseofftitle(tbbs)">Bulletin Board Systems</span><br />
+ 
+
+<div class="infotext c45" id="bbs">Bulletin Board System's (BBS) were a separate component within the scene. These where the focal point of the scene, groups would upload their releases to these BBS and download the competitors'. They would leave messages on the networked message boards and also communicate with their own members as well as others. Like a group, BBS had their own organisers who would maintain the system and their own affiliations to obtain the releases quicker then the other
+boards within the area. Up until the mid. nineties BBS where just as (if not more) important as the release groups. 
+
+<div class="c44">[<a href="ftp://ftp.defacto2.net/scene-archive/BBS-Pack-083099.zip">Download</a>] The BBS Pack #1 (1.25MB)<br />
+[<a href="ftp://ftp.defacto2.net/scene-archive/BBS-Capture-Toast-Pack.zip">Download</a>] Toast's BBS Capture Collection #2 (1.75MB)<br />
+[<a href="javascript:areacodewindow('areacodes.html')">Open</a>] Telephone Area Code Webpage</div>
+
+<hr />
+</div>
+
+<span class="headings c43" id="tgames" onclick="showcontent(games)" onmouseover="mouseontitle(tgames)" onmouseout="mouseofftitle(tgames)">Games Database</span><br />
+ 
+
+<div class="infotext c45" id="games">When IBM released their first PC back in 1981 one of the first unofficial software releases for the machine was a game. Even IBM themselves produced games for their machine for a while, as well as commissioning other developers to do the same. Early PC games used text mode only before they ventured forth into the glorious CGA (Color Graphics Array) with its 4 on screen colors. EGA (Extended Graphics Array) soon followed and by 1989 VGA (Video/Visual Graphics
+Array) surfaced. 
+
+<div class="c44">[<a href="javascript:thewindow('gamelist.html')">Open</a>] The Games Database</div>
+
+<hr />
+</div>
+
+<span class="headings c43" id="tbanners" onclick="showcontent(banners)" onmouseover="mouseontitle(tbanners)" onmouseout="mouseofftitle(tbanners)">Web Banners</span><br />
+ 
+
+<div class="infotext c45" id="banners">When the scene made the public move onto the Internet some groups thought it would be nice to have official group webpages. While many of these pages served no real purpose, they where popular never the less. Banners where sometimes exchanged with other simular pages to help increase visits to the home page. 
+
+<div class="c44">[<a href="javascript:thewindow('web-banners.html')">Open</a>] The Web Banners Webpage</div>
+
+<hr />
+</div>
+
+<span class="headings c43" id="tthelongstory" onclick="showcontent(thelongstory)" onmouseover="mouseontitle(tthelongstory)" onmouseout="mouseofftitle(tthelongstory)">Scene History Composition</span><br />
+ 
+
+<div class="infotext c45" id="thelongstory">This document is the most comprehensive item written about the PC scene to date. With many pages worth of information included, this document is the 101 of the PC scene's history. 
+
+<div class="c44">[<a href="javascript:thewindow('history.html')">Open</a>] The Scene History Composition (HTML Format Only)</div>
+</div>
+
+<span class="c46">[<a href="javascript:closeallchapters()">close all</a>][<a href="javascript:openallchapters()">open all</a>][<a href="#top">goto top</a>]</span><br />
+ <a id="end" name="end"></a>
+<hr />
+<span class="c47">Last Updated: 14th July, 2000 
+<script type="text/javascript">
+currentdate = new Date();currentdate = currentdate.getDate() + "/" + currentdate.getMonth() + "/" + currentdate.getFullYear();document.write("(Current:" + currentdate + ")")
+</script>
+
+<br />
+The page now requires CCS1, HTML 4.01 and Javascript.<br />
+This means the page does not work in Netscape 4.72 or below<br />
+</span> 
+
+<p />
+<hr />
+<span class="copytext c48">This page, and the pages within this server, &copy; 1996-2000, by The Scene Archives owned by Defacto2.net. This site contains nothing illegal whatsoever nor does it condone illegal activities. The Scene Archive does not take any responsibility for any software or hardware failures that may arise due to the use of the software on this server. All software has been scanned for viruses prior to being added but you always DOWNLOAD AT YOUR OWN RISK!</span> 
+
+<p /><span class="normaltext c49">[<a href="../index.html">defacto2.net index</a>]</span> </td>
+</tr>
+</table>
+
+<p /><br />
+<table width="560" border="0" align="center" class="c51">
+<tr>
+<td>
+<div class="c40">
+<script type="text/javascript">
+document.write('<embed type="audio/x-zipped-mod" src=' + musicsong + ' width="392" height="48" controls="stereo" bgcolor="gray" loop="true" autostart="true" hidden="false">')
+</script>
+
+<br />
+</div>
+
+<span class="normaltext c49">The Scene Archive uses <a href="http://www.castlex.com/modplug/plugin.html">MODPlug</a> for music</span> </td>
+</tr>
+</table>
+</body>
+</html>
+

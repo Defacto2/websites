@@ -1,0 +1,198 @@
+<!doctype html public "-//w3c//dtd html 4.01//en" "http://www.w3.org/TR/html40/strict.dtd">
+
+<html>
+
+<head>
+<title>www.defacto2.net - the scene archive</title>
+
+<script language="javascript" type="text/javascript"/>
+<!-- Banner Rotation Start //-->
+	adimages = new Array("http://www.eads.com/adserve/adserve.dll/banner?GA08875,0,0","http://www.eads.com/adserve/adserve.dll/banner?GA08875,0,1","http://www.eads.com/adserve/adserve.dll/banner?GA08875,0,2","http://www.eads.com/adserve/adserve.dll/banner?GA08875,0,3")
+	adurl = new Array("http://www.eads.com/adserve/adserve.dll/link?GA08875,0,0","http://www.eads.com/adserve/adserve.dll/link?GA08875,0,1","http://www.eads.com/adserve/adserve.dll/link?GA08875,0,2","http://www.eads.com/adserve/adserve.dll/link?GA08875,0,3")
+	thisad = 0
+	imgct = adimages.length
+
+function rotate() {
+	if (document.adbanner.complete) {
+		thisad++
+		if (thisad == imgct) { thisad = 0 }
+		document.adbanner.src=adimages[thisad]
+		}
+	setTimeout("rotate()", 10 * 1000)		
+}
+
+function newlocation() {
+	document.location.href = adurl + [thisad]
+}
+function showcontent(pageitem) {
+	if (pageitem.style.display=="") { 
+		pageitem.style.display="none";
+		document.cookie = "pageitem=close;expires=" + expireDate.toGMTString();
+	}
+	else { 
+		pageitem.style.display="";
+		document.cookie = "pageitem=open;expires=" + expireDate.toGMTString();
+	}
+}
+<!-- Banner Rotation End //-->
+</script>
+
+<script>
+<!-- Number Of Visits With Date Start //-->
+	now = new Date
+	now = now.toLocaleString()
+	expireDate = new Date
+	expireDate.setMonth(expireDate.getMonth()+6)
+
+	hitCt = eval(cookieVal("pageHit"))
+	hitCt++
+	lastVisit =  "s, the last was on " + cookieVal("pageVisit")
+	if (cookieVal("pageVisit") == 0) { lastVisit = "." }
+
+	document.cookie = "pageHit="+hitCt+";expires=" + expireDate.toGMTString()
+	document.cookie = "pageVisit="+now+";expires=" + expireDate.toGMTString()
+
+function cookieVal(cookieName) {
+	thisCookie = document.cookie.split("; ")
+	for (i=0;i<thisCookie.length;i++) {
+		if (cookieName == thisCookie[i].split("=")[0]) { return thisCookie[i].split("=")[1] }
+	}
+	return 0
+}
+<!-- Number Of Visits With Date Finish //-->
+</script>
+
+</head>
+
+<style type="text/css">
+<!-- Style Sheets Start -->
+
+	.headings {display:block;position:relative;text-align:left;font-family:Arial;font-size:12pt;color:#637897;font-weight:bold;font-style:normal;}
+	.normaltext {visibility:visible;display:block;position:relative;text-align:left;font-family:verdana;font-size:9pt;color:black;}
+	.infotext {font-family:verdana;font-size:10pt;color:black;text-align:justify;}
+
+<!-- Style Sheets End -->
+</style>
+
+
+<body onload="rotate()" style="background:black;">
+
+<center>
+<div style="visibility:visible;display:block;position:relative;top:20px;background:#FEF0CF;width:560px;border-width:4px;border-style:outset;border-color:#bbb9bb;">
+<div style="display:block;position:relative;top:10px;text-align:center;"><a href="javascript:newlocation()" onMouseover="window.status='Visit our sponsor';return true" onMouseout="window.status='';return true"><img src="http://www.eads.com/adserve/adserve.dll/banner?GA08875,0,0" name="adbanner" border="1"></a></div>
+<div style="display:block;position:relative;top:26px;text-align:center;"><img src="images/df2-arch-one-yellow.jpg" width="372px" height="90px"><a href="mailto:archive@defacto2.net" onMouseover="window.status='Send an e-mail to archive@defacto2.net';return true" onMouseout="window.status='';return true"><img src="images/df2-news-last-yellow.jpg" border="0"></a></div>
+<div id="first.text.block" style="visibility:visible;display:block;position:relative;top:0px;width:536px;background:none;height:auto;padding:10px;">
+<span class="headings" style="top:40px;">Introduction</span>
+<span class="normaltext" style="top:40px;font-style:italic;">&quot;The Scene Archive, a web site who's goal is to document the pass for the future&quot;</span>
+<span class="normaltext" style="top:50px;">
+Site Manager: <a href="mailto:archive@defacto2.net" onMouseover="window.status='Send an e-mail to archive@defacto2.net';return true" onMouseout="window.status='';return true">Ipggi</a><br/>
+Site Hosting: <a href="http://www.defacto2.net" onMouseover="window.status='Goto www.defacto2.net';return true" onMouseout="window.status='';return true">Defacto2.net</a></span>
+<span class="normaltext" style="top:60px;">Contributors: Bk, Cybacolt, Ek, Lek, Mead, Neofish, Skateguy, Strooper, Pst, Saint-Tok, Aldog, Radman and Toast.</span>
+<span class="normaltext" style="top:70px;"><script>document.write("You have visited us " + hitCt + " time" + lastVisit)</script></span>
+</div>
+
+<div id="main.content.block" style="visibility:visible;display:block;position:relative;top:56px;width:536px;background:none;height:auto;padding:10px;">
+<a name="top"/>
+<hr/>
+<table cellpadding="0" cellspacing="0" style="position:relative;font-family:arial;width:100%;font-size:8pt;text-align:left;color:black;"><tr><td>
+Click on a heading below to expand
+</td><td style="text-align:right;">[<a href="javascript:closeallchapters()">close all</a>][<a href="javascript:openallchapters()">open all</a>][<a href="#end">goto end</a>]
+</td></tr></table>
+<p/>
+
+<span class="headings" id="tcracktros" style="cursor:hand;text-transform:none;">Cracktros</span>
+<p/>
+<div class="infotext" id="cracktros" style="visibility:visible;display:block;">
+Cracktros are an important part of the scene giving groups the opportunities to show off their talents to competing groups.
+The first cracktros where done on the Commodore 64 in the early eighties, but it was Bentley Sidewell Productions and Crackers In Action which introduced the cracktros to the PC format.
+Originally the cracktros where used to show off the cracker's coding ability, the eye candy and file size where most important features of these works.
+<ul>
+[<a href="ftp://ftp.defacto2.net/scene-archive/Cracktro-Pack-083099.zip">Download</a>] Cracktro Pack #1 [167 cracktros] (15.5MB)<br/>
+[<a href="javascript:thewindow('cracktros.html')">Open</a>] Cracktro Pack Webpage
+</ul>
+<p/>
+<hr/>
+<p/>
+</div>
+
+<span class="headings" id="ttrainers" style="cursor:hand;text-transform:none;">Trainers</span><br/>
+<p/>
+<div class="infotext" id="trainers" style="visibility:visible;display:block;">
+Trainers are small programs that enable you to cheat within games.
+These programs are usually loaded into the computer's memory and are triggered when you press selected keys during the game.
+The keys gives you extra options not intended by the games creators such as the ability to gain extra lives, skip levels, gain new weapons and powerups ect. generally to make the game easier to play.
+<ul>
+[<a href="javascript:thewindow('trainers.html')">Open</a>] The Trainer Webpage
+</ul>
+<p/>
+<hr/>
+<p/>
+</div>
+
+<span class="headings" id="temags" style="cursor:hand;text-transform:none;">Electronic Magazines (Code)</span><br/>
+<p/>
+<div class="infotext" id="emags" style="visibility:visible;display:block;">
+Electronic magazines are literally magazines, which instead of being on print, are programmed into code.
+E-mags as they are affectionately known first appeared onto the PC scene in the very early nineties and where usually put out by groups on a very limited basis.
+These magazines usually contained many different articles and interviews on many different items but they usually all had the scene as a focus.
+The first non-group affiliated e-mag was Reality Check Network by Reality, which was also well known for creating as well as reporting the news.
+<ul>
+[<a href="javascript:thewindow('mags-timeline.html')">Open</a>] The Magazine Timeline<br/>
+[<a href="javascript:emagswindow('mags-aft.html')">Open</a>] Affinity by Canadian Born Crackers (1996-1998)<br/>
+[<a href="javascript:emagswindow('mags-apt.html')">Open</a>] Advanced Pirate Technology (1991-1992)<br/>
+[<a href="javascript:emagswindow('mags-cor.html')">Open</a>] Corruption (1993-1994)<br/>
+[<a href="javascript:emagswindow('mags-df.html')">Open</a>] Defacto (1996-1997)<br/>
+[<a href="javascript:emagswindow('mags-gal.html')">Open</a>] Galactic Review (1991)<br/>
+[<a href="javascript:emagswindow('mags-tge.html')">Open</a>] The Gamer's Edge (1997)<br/>
+[<a href="javascript:emagswindow('mags-thr.html')">Open</a>] Humble Review by The Humble Guys FX (1991)<br/>
+[<a href="javascript:emagswindow('mags-hyb.html')">Open</a>] Hybrid Christmas by Hybrid (1996)<br/>
+[<a href="javascript:emagswindow('mags-ins.html')">Open</a>] Insanity by ICE (1991)<br/>
+[<a href="javascript:emagswindow('mags-ll2.html')">Open</a>] Lancelot 2 by Sharp (1992)<br/>
+[<a href="javascript:emagswindow('mags-rcn.html')">Open</a>] Reality Check Network by Legacy (1995-1996)<br/>
+[<a href="javascript:emagswindow('mags-rcn.html')">Open</a>] Reality Check Network by Reality (1996-1997)<br/>
+[<a href="javascript:emagswindow('mags-ssm.html')">Open</a>] Scooby Snack Magazine (1996-1997)<br/>
+[<a href="javascript:emagswindow('mags-wav.html')">Open</a>] Wave by The Council (1995-1998)<br/>
+</ul>
+<p/>
+<hr/>
+<p/>
+</div>
+
+
+<span class="headings" id="ttmags" style="cursor:hand;text-transform:none;">Electronic Magazines (Text)</span><br/>
+<p/>
+<div class="infotext" id="tmags" style="visibility:visible;display:block;">
+Text based magazines or journals have been around for decades, and have been used to report pirate activities for nearly just as long.
+Now while these text magazines don't have the glitz and glam of their coded counter parts they do have a number of advantages.
+Ease of creation, easy of use, portability and compatibility.
+<ul>
+[<a href="javascript:emagswindow('mags-awa.html')">Open</a>] Anti Warez Association (1993)<br/>
+[<a href="javascript:emagswindow('mags-bow.html')">Open</a>] Brotherhood of Warez (1994 & 1999)<br/>
+[<a href="javascript:emagswindow('mags-101.html')">Open</a>] Cracking 101 by Buckaroo Banzai (1990)<br/>
+[<a href="javascript:emagswindow('mags-tgr.html')">Open</a>] The Game Review by Ionizer (1995-)<br/>
+[<a href="javascript:emagswindow('mags-inq.html')">Open</a>] Inquisition (1995-1996)<br/>
+[<a href="javascript:emagswindow('mags-ntm.html')">Open</a>] Naked Truth Magazine (1995-1996)<br/>
+[<a href="javascript:emagswindow('mags-nwr.html')">Open</a>] The Net Monkey Weekly Report (1998-)<br/>
+[<a href="javascript:emagswindow('mags-pir.html')">Open</a>] Pirate - "keepin' the dream alive" (1989-1990)<br/>
+[<a href="javascript:emagswindow('mags-wwn.html')">Open</a>] Week In Warez Newsletter (1995)<br/>
+</ul>
+<p/>
+<hr/>
+<p/>
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+</div>
+</center>
+
+</body>
+
+</html>

@@ -1,0 +1,88 @@
+<html>
+
+<title>
+Defacto 2 (dot) Net
+</title>
+
+<script>
+var portal = "hxxd"
+</script>
+
+<style>
+
+body { background-color: #2F6AB3; }
+
+.formattable {position:relative;width:600px;height:500px;top:0px;background-color:white;}
+.mainlogo {position:relative;top:0px;}
+.bar {position:relative;background-color:orange;top:2px; font-family:verdana;font-weight:bold;font-size:14pt;  text-align:left;text-indent:20px;}
+.barmk2 {position:relative;background-color:orange;top:14px; font-family:verdana;font-weight:bold;font-size:14pt;  text-align:left;text-indent:20px;}
+#show {position:relative; left:350px; font-family: Verdana;color:blue;}
+#banner {position:relative;top:10px;display:;}
+#portal {position:relative;top:10px;display:;}
+
+</style>
+
+<script language="JavaScript">
+<!-- Token Commercial Banner
+function hide()
+{
+if (banner.style.display == "") {
+Button.value = "show"
+portal.display = "none"
+}
+else {
+Button.value = "hide"
+portal.display = ""
+}
+}
+
+-->
+</script>
+
+
+<script language="JavaScript">
+<!-- Token Commercial Banner
+var imagenumber = 4 ;
+var randomnumber = Math.random() ;
+var rand1 = Math.round( (imagenumber-1) * randomnumber) + 1 ;
+images = new Array
+images[1] = "http://www.eads.com/adserve/adserve.dll/banner?GA08875,0,0"
+images[2] = "http://www.eads.com/adserve/adserve.dll/banner?GA08875,0,1"
+images[3] = "http://www.eads.com/adserve/adserve.dll/banner?GA08875,0,2"
+images[4] = "http://www.eads.com/adserve/adserve.dll/banner?GA08875,0,3"
+var image = images[rand1]
+
+links = new Array
+links[1] = "http://www.eads.com/adserve/adserve.dll/link?GA08875,0,0"
+links[2] = "http://www.eads.com/adserve/adserve.dll/link?GA08875,0,1"
+links[3] = "http://www.eads.com/adserve/adserve.dll/link?GA08875,0,2"
+links[4] = "http://www.eads.com/adserve/adserve.dll/link?GA08875,0,3"
+var link = links[rand1]
+// -->
+</script>
+
+<body>
+
+<center>
+<span class="formattable">
+
+<img src="images/df2-mainlogo.gif" class="mainlogo" />
+
+<div class="bar">Token Commercial Banner</div>
+<script language="JavaScript">document.write('<A HREF="' + link + '"><IMG id="banner" SRC="' + image + '" border="0" alt="Click Here to Visit Our Sponsor"></a>')</script>
+
+<div class="barmk2">The Scene Portal
+<span id="show"><input type="button" name="Button" value="hide" style="width:40px;height:24px;" onClick="hide()"></input></a></span>
+</div>
+
+<span id="portal">
+Test 1
+</span>
+Test 2
+
+</span>
+</center>
+
+</body>
+
+</html>

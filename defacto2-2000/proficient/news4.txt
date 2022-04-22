@@ -1,0 +1,2 @@
+NEWS;31st July 2000;4.00;New Proficient Is Out!;Proficient 4.1 for Mirc 5.71 is complete. It has a few new features, some bugfixes and dialog facelifts etc. Download it today from the webpage, the link is on the bottom of this dialog.;
+!END!
