@@ -1,0 +1,20 @@
+
+
+  List of INC Couriers, their first names, and their Phone No's.
+
+Handle               Real name             Phone Number
+
+Galactic Warrior #1  Ron Merts             405-721-9507
+Freedom Fighter #2   Erik                  516-754-8596
+Absolute Zero #3     Doug                  201-263-0337
+Island Hacker #4     Charles               914-561-0897
+The Cooz #5          Sam                   408-685-7626
+The Mutant Warrior #6Morgan                215-721-9366
+Jack Flash #7        Brian                 301-884-8233
+Bad Ass #8           Elliot                914-561-8395
+Punky Star #9        Jim                   312-489-6235
+Fistandantilus #10   Chris                 516-471-3266
+Xerxes #11           Lonnie                916-395-5686
+
+There ya' go...
+

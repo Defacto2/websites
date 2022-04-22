@@ -1,0 +1,165 @@
+               -=*=- D r i n k   O r   D i e -=*=-
+                          proudly presents
+
+                Drink or Die DVD Speed Ripper v1.1
+                ----------------------------------
+                (C) 1999  Drink or Die Productions
+                ----------------------------------
+                       for Windows 9x/NT/2K
+
+
+
+Intro
+-----
+Finally. It's here. The new version of DoD DVD Speed Ripper!
+Now with a GUI and some graphics. I apologize for being so
+late with this release, it's due to my education. Anyway,
+here it is...
+
+
+Disclaimer
+----------
+This software is provided AS IS without warranty of any kind.
+Drink or Die is not responsible for the behaviour of this
+software, though we have done extensive testing upon its
+release. You are warned.
+
+
+Legal Issues
+------------
+This software is created for the sole purpose of making
+backups of your own personal, legally purchased DVD videos.
+Any other usage or misusage is strictly prohibited by the
+law and will result in penatly.
+
+
+Quick Operation Guide
+---------------------
+When executing DODSRIP, you will be presented with a
+graphical user interface (GUI). I think this is rather
+self-explanatory...anyway, to rip something...
+
+1. Insert a DVD video disc, launch DODSRIP.
+2. If first time, configure DODSRIP with your DVD Drive.
+3. Press Refresh button to read contents of your DVD.
+4. Press Browse to select target file or directory.
+5. Select file(s) to rip.
+6. Now press Rip button. Progress meter will appear.
+
+The first VOB file of size 1GB is usually where the video
+begins.
+
+NOTES:
+* If you enter a DIRECTORY as output, selected files will
+  be copied from DVD to harddrive with same filenames.
+* If you enter a FILE as output, all selected files (from
+  top through bottom) will be APPENDED to the output file.
+
+
+Custom rip
+----------
+Custom rip works equally to dodsrip 1.0. You can rip a
+specified region on the DVD disc by entering start LBA
+and byte length. If you select a file in the DVD dirlist
+before selecting custom rip, its LBA and length will
+automatically appear there (oo, how fancy q:).
+
+
+What's on the DVD?
+------------------
+All DVD video discs have a \VIDEO_TS directory, which includes 
+VOB files. Let's get the directory listing of a DVD video:
+
+Directory of VIDEO_TS...
+Name: VIDEO_TS.BUP      LBA: 1320       Length: 12549
+Name: VIDEO_TS.IFO      LBA: 282        Length: 12549
+Name: VIDEO_TS.VOB      LBA: 288        Length: 2113797
+Name: VTS_01_0.BUP      LBA: 2127182    Length: 80133
+Name: VTS_01_0.IFO      LBA: 1326       Length: 80133
+Name: VTS_01_0.VOB      LBA: 1365       Length: 12044549
+Name: VTS_01_1.VOB      LBA: 7246       Length: 1073740037
+Name: VTS_01_2.VOB      LBA: 531533     Length: 1073740037
+Name: VTS_01_3.VOB      LBA: 1055820    Length: 1073740037
+Name: VTS_01_4.VOB      LBA: 1580107    Length: 1073740037
+Name: VTS_01_5.VOB      LBA: 2104394    Length: 46670085
+
+Commented each file in this dir:
+Name: VIDEO_TS.BUP  - Backup of IFO file            (not scrambled)
+Name: VIDEO_TS.IFO  - Navigational info             (not scrambled)
+Name: VIDEO_TS.VOB  - Copyright screen  
+Name: VTS_01_0.BUP  - Backup of IFO file            (not scrambled)
+Name: VTS_01_0.IFO  - Navigational info             (not scrambled)
+Name: VTS_01_0.VOB  - Text (as pictures) about movie 
+Name: VTS_01_1.VOB  - Movie file #1
+Name: VTS_01_2.VOB  - Movie file #2 
+Name: VTS_01_3.VOB  - Movie file #3 
+Name: VTS_01_4.VOB  - Movie file #4
+Name: VTS_01_5.VOB  - Movie file #5
+
+DVD specs specify that movie files must be spilt on 1 gig
+bonudary. If you merge those files, you'll get the whole
+movie.
+
+
+Problems
+--------
+It's important that you find a wnaspi32.dll file that works
+with your operating system. There are included two of these
+files which are tested and found working on our systems. 
+
+wnaspi32.98.dll - Should work on Win 98.
+wnaspi32.NT.dll - Should work on NT4 and Win 2000.
+
+The Adaptec versions of these DLLs are untested. Some say
+it doesn't work, others say it does. I do
+67a
+n't know... I
+recommend running Microsoft's versions of them.
+
+If the program doesn't work on your computer, try renaming
+the appropriate file to wnaspi32.dll inside dodsrip dir,
+and run the program again.
+
+Playing back a randomly grabbed stream from any of the VOB
+files may not work because different frames are dependent of
+each other and DVD players are really bad programmed. Xing
+usually bugs or crashes. PowerDVD manages much better.
+
+Also, there will be no way to tell your player what lanuage
+(soundtrack) you want, subtitles, etc, so you will sometimes
+hear the first found sound track (maybe not english?) when
+playing. It depeds on your player. You should run the VOB
+through a filter to get it as you want after ripping.
+
+BTW, FAT32 file system does not support files larger than
+4GB... What a bummer!
+
+
+Greetings (outside DoD)
+-----------------------
+* MoRE for making a competition:) (read dvdtruth.txt for the
+  true story about CSS cracking, it's cooperatively written
+  by me and MoRE to get rid of all the confusion).
+* equinox for lending me a DVDROM (i don't own one myself).
+
+
+History
+-------
+12.09.1999 - CSS authentication code ready.
+14.09.1999 - CSS descramlber engine ready.
+19.09.1999 - v0.0 released (DoD only).
+20.09.1999 - v0.1 released (DoD only).
+21.09.1999 - v0.2 released (DoD only).
+22.09.1999 - v1.0 first version released to the world.
+26.09.1999 - v1.1b0 fixed the bug in CSS engine (DoD only)
+:
+:          - several betas of 1.1 released (DoD only).
+:
+31.10.1999 - v1.0 Linux version released to the world.
+08.11.1999 - v1.1 Windows version released to the world.
+
+
+Now, all I can say is..enjoy!
+
+[dEZZY / DRiNKoRDiE]
+

@@ -1,0 +1,48 @@
+ ------------------------------------------------------------------------------
+
+                 -- InfoFile on Operation Wolf --   CHiNA
+ 
+ 
+As most of you have now heard this wonderful long awaited game suddenly
+was released, but not by Taito, FiRM, PTL or MCM, but by a guy named General
+Zaroff.
+ 
+If you downloaded this 'game' somewhere then you probably noticed that it
+said it was cracked by PTL.  How can PTL crack a game when it hasn't even
+been released out on the market, according to The Viper he called Taito and
+they told him that it wouldn't be released until the third week of July.
+ 
+Therefore this guy obviously did this to frame PTL (against FiRM) 
+ 
+General Zarhoff (also known as The Gipper) did this Sunday I do believe and was
+stupid enough to put it up on his own board (where several people downloaded
+it) and then proceded to upload it to The House of Phreaks and you know how it
+goes it was easily distibuted around.
+ 
+This guy can be found around a few boards but you can pay him a personal
+visit on the board he runs Crystal Chasm (408) 997-9107 CASJO.  I didn't
+think it would be neccesary to post his Voice #, Address and Real Name.
+ 
+o What the file does o
+ 
+When you first run the program it will tell you that it is PTL.  Next
+it will ask you for your graphics mode and sound ability.  After that it
+will clear the screen, delete Config.Sys  Command.Com  Autoexec.Bat
+IBMBIO.Com  IBMCOM.Com and then it will lock up.
+ 
+The files are Wolf.001  Wolf.Exe  Runme.Bat  Title.Ptl    The rest of
+the files on disk one are useless garbage and on Disk 2 the entire disk
+    is all docs.
+ 
+I hope this file helped to prevent the use of this program and make sure you
+keep a look out for this guy because he is obviously wanted by PTL and FiRM.
+ 
+ 
+          Created by : Maxwell Smart
+          Thanks  to : The Viper and Master Ryu
+ 
+ 
+                  (another CHiNA original)
+
+
+ -----------------------------------------------------------------------------

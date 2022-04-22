@@ -1,0 +1,215 @@
+
+ Interview with HARD CORE/TDT
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+N: When did u start on the scene and where are u from? 
+
+H: I started in 1988/1989 don't remember, im from sweden
+
+N: oki.. can u tell us about how the scene was when u started..
+
+H: when i started there was thg and inc raging at each other,
+H: good old days with line-noise, cool hand, candyman, pieman and slave lord
+
+N: where u on amiga when u started on the scene?..
+N: or was it PC at the first moment?..
+
+H: thg had the best suppliers and the largest releases, when i started,
+   i decided that TDT one day would become where THG was when i started
+H: i played games on the VIC 20, and C64, i knew people from DEFJAM
+   C64/AMIGA (locals where i lived) but i never released or coded anything on
+   the amiga
+
+N: oki.. what kind of PC did u got? :)
+
+H: my first pc was a 286 12mhz, with ega graphics, 20mb hd and 360 floppy,
+   imported from taiwan ;)
+H: got it from my dad when i was 15 (its 10 years from now....)
+H: i started out making demos on 360 floppies and mail swapping
+   them with people, that was before my first modem
+
+N: oki.. when did u get ur first modem?
+
+H: i brought my first us robotics 14.4 from a defjam amiga member in
+   gothenbourgh which also introduced me to cc's, that was like 89/90 i think
+
+N: oki.. 14.4 in 89/90. oh shit.. 14.4 costed alot at that time!..
+
+H: jup, it was like 800$ i think
+H: no lamers
+
+N: can u tell us about the first years on the scene.. what happends..
+
+H: people with 14.4's and cc's where the only elite calling from europe to
+   the states
+H: there was big games from sierra and origin coming out in the states, and
+   small nice action games from europe from companies like ubi soft, titus, us
+   gold, team 17 etc...
+H: thg was ruling and running it all professionally, i met IRATA/TRSI on a THG
+   bbs in the states
+H: he was offered a position in THG and i was offered a position in INC, but
+   we both felt there was a need for a european force
+H: we contacted TOUCH TONE who was running one of the largest bbs's
+   (10-12nodes) in NY and he became the TDT/TRSI (COOP) WHQ, motherboard ONE...
+
+N: Where was IRATA from?
+
+H: IRATA was from southern germany, a guy who liked beer...
+
+N: in what year was this happening
+
+H: late 89, beginning of 90
+
+N: oki.. then u started TDT/TRSI can u tell us something about the start..
+
+H: there were also no intros in the releases from us groups, thg introduced
+   nfo's, but we were the first with intros
+H: it was me and irata who were running the group, we got some fine suppliers
+   from france and uk (main supplying countries) and we decided on naming all
+   games with coopXXXX.zip
+H: it was also built on a lot of friendship, everyone in the group were VERY
+   good friends
+H: we also got AKIRA (DEVIOUSE DOOZE) from canada, was the best bbs in nothern
+   america, but it was so long time ago that i dont remember everything, i do
+   remeber i had a lot of fun with VENOM/TURKIE and CON ARTIST/WASHINGTON DC
+   doing social engineering in 301 area code ;)))
+H: It was also a time where we had AT&T conferences that could last for like 3
+   days, people were taking over the operator role as other went to sleep, but
+   it got my both phone numbers black listed by at&t hehe
+
+N: What was the first game TDT released?
+
+H: the first tdt release was a shitty game supplied byt TDB a guy from Holland
+
+N: ok. what boards did u got at that time.. 
+
+H: HARD CORE CITY, MOTHERBOARD ONE, i don't remember them, but it was like
+   5 - 10 boards, one rule we had in TDT/TRSI was to keep the member number
+   down so that we were few, but effective, true ELITE...
+H: oh i remember we also had a BBS in kuwait called FREE KUWAIT
+H: went down when saddam was raging down there...hehe, it never went up again,
+   saddam's soliders stole his computer
+
+N: hhe.. can u tell us about ur bbs HARD CITY.. did u get any big suport?
+
+H: we hated the way inc became 40 bbs's and member count close to 50, i
+   know at the end they didnt knew who brought in who in the group
+H: hard city was the fastest bbs in europe for a while, it had like 200+ calls
+   a day on 1 single node, i think it was like 99% busy....so it was well
+   supported , but opping didnt intrest me, i prefered others running boards
+   for the group, thats why we brought in DIRTY BUSH in sthlm to run the board
+   for us in sweden
+
+N: oki.. didnt Opus and B.B king ran boards for TDT/TRSI in sweden. and
+   Les Manley - Mr Thompson
+
+H: well, opus was in TDT before hard city, and before tdt really became top #1,
+   it was like a starting point, les manley were in the group when dirty bush
+   got busted for selling tons of stoled hardware, i remember he one once when
+   the cops came to his flat he had 2gb disk from floor to roof filled in his
+   kitchen, and 30.000$ cash, it was crazy, i remember mr. thmopson, but he was
+   mainly spreader for the group, les manley joined very late, and was a soc
+H: i never liked les manley, he was really a fart, and pissed off a lot people
+H: the true elite guys in the group were action man in uk, our best supplier
+   in the early days
+H: he supplied most of the memorable games, also angel face from paris, who we
+   stole from thg was very good
+H: in the states we had fallen angel in toronto canada, he pulled some really
+   kick ass games
+H: and ofcourse drunken rom, irata's buddies in german had some nice titles
+   from interplay
+H: one old and early member of tdt was yip yip in australia, the guy was always
+   on drugs but very funny to have in the group
+N: Heard some rumours about u selling tons of CC's on Unlawful Entry..
+H: Never sold any CC's
+H: the guy selling cards when unlawul entry joined were the notso humble babe
+   and phonestud
+
+N: oki false rumours.. 
+
+H: phonestud had a guy working at at&t and bringing lists of like 2000-5000
+   cards, they were even selling to the mafia
+H: another cool guy in the group were maximilien (paradox on the amiga)
+   from paris, he was doing a lot for TDT, but at the end he was selling
+   consoles and at&t's and once he went to the states, FBI took him, he even
+   were on first page in new york times, called me from jail once ;)
+H: we shouldn't also forget the renegade chemist, he was busted big time for
+   carding by FBI, when he got out, he joined TDT and brought the group to #1
+H: but there were alot of struggle as he tried to take over the group, and
+   even kicked major theft/unlawful out, so i had to get rid of him too
+H: TRG was a weird fuck, he always stayed home himself and drunk with himself,
+   called me many times drunk
+
+N: kinda alcoholic? :)
+
+H: well, there was a lot of strange people around at the time
+
+N: hmm.. what was the best board in the TDT history..
+
+H: one reason why THG went down was CANDYMAN got busted in a car with PIEMAN
+   for cocaine obsession, he left US to MEXICO , and there the best THG
+   supplier went away
+H: the best TDT board's in history were: MOTHER BOARD ONE - UNLAWFUL ENTRY -
+   AKIRA
+
+N: was there any big group fights between TDT and any other group?..
+
+H: oh yeah. there were always group fights. and there was a time when TDT was
+   on top, that everyone HATED us
+H: but it really started after the coop with trsi broke up
+H: everyone greeted everyone exept TDT, hehe, but we didn't care,
+
+N: did u get any competition from Pentagram/Razor1911/FLT/Nexus?..
+
+H: the biggest competition was first by inc & thg, then by USA/FLT , and at the
+   end by razor and nexus
+
+N: oki.. did u have an eficient courier team in TDT?
+
+H: nope, we never liked the courier idea, we did spreading ourselves
+
+N: oki.
+
+N: who was the best spreader in TDT..
+
+H: firehead i think from luxembourgh
+
+N: how many releases did u upped to the boards..
+
+H: 200 i think
+
+N: was there any board that u liked very much :)..
+
+H: i loved motherboard one and unlawful entry, also iwas VERY good friend with
+   PIEMAN and was calling  his board PIE IN THE SKY. (P.I.T.S)
+H: he wanted me to join THG many times
+
+N: why did TDT died?
+
+H: becoz i decided one day: 1) i want to start to have a life, get a good job,
+   make something in real life, i was famous, but when i walked on the street
+   no one knew me, also TDT had been #1 , so there was no further things to
+   achieve, 
+
+N: did u met all the TDT guys?..
+
+H: no but i met: The Ghost Wind, Touch Tone, Devious Dooze, a guy in
+   sacramento, i even met RADAR, the '"k„nd' disqusting guy in LA, he was
+   SOOO FAT and ugly, 
+
+N: was there any persons who helped u back in the old days. and any persons who
+   fucked with u?
+
+H: well, hoson and patrick a guy from lux helped me alot, there was also irata
+   in the coop that helped, oh shouldnt forget deviuouse dooze (met him once
+   in toronto, we got drunk and he was smoking pot)
+H: well, the guy that got most on my nerves was the renegede chemist from razor
+H: he was a real fuck up
+
+N: oki.. before we quit this interivew.. is there anything u want to tell the
+   readers?
+
+H: it was better back then, if u were not around, u really missed something.
+   If i missed someone, sorry...
+
+N: Then we thnx HARD CORE/TDT for this interview.. .

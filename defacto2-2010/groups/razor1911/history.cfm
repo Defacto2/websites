@@ -1,0 +1,78 @@
+<span class="arial fs10">revision 1.3 - 19 April, 2006</span>
+<p>
+<span class="bold">Razor 1911</span> is without doubt the most well known and one of the most well respected brands in the underground scene, period. Originally known as Razor 2992, it was created as a Norwegian demo and cracking group on the Commodore 64 computer system back in 1985. The Razor name has managed to traversed three different computer formats and survived nearly two decades of continuous cracking and releasing (except for a long break at around 1986). Razor 1911 also has the honour of being the oldest active PC group in existence, spanning over 13 years. Razor is the only group that managed to dabbled with every media format available on the computer pirate scene including tapes, floppy games, cd-rips, cd copies and ISO packages.
+</p>
+<br />
+<img src="groups/razor1911/razorbeer.jpg" alt="Razor Beer" style="float : left; margin-bottom : 5px; margin-right : 5px; " />
+<div class="italic">This page tells briefly about our career through the years 1985 to 1996 on Commodore 64, Amiga and PC. I tried my best to remember all details but of course I've missed some things and I ask whoever it may concern to be indulgent with me and notify me instead of being disappointed or angry.
+	<p></p>
+	Norway June 9th 1998, $ector9 - founder member
+	<p></p>
+	<span class="italic bold">In the beginning...</span> <br />
+	On a rainy evening back in October 1985 three young Norwegian guys decided to form a computer group. We were not exactly sure about what we needed the group for but we were really inspired by other big groups at the time, such as Flash Cracking Group 1941, Section 8, Electronic Cracking Association 1998, ABC 1999, Jedi 2001, 1103, Djenghis Khan, Hellmates, SCC, Dynamic Duo etc.
+	<p></p>
+	These three founder members are today known as Doctor No, Insane TTM and Sector9.
+	<p></p>
+	<span class="italic bold">Playing with the Commodore C64</span> <br />
+	A good group does of course deserve a good name, and thanks to Hellmates we decided to call ourselves RAZOR 2992. (No, that's not a typo). The number was put there to separate us from eventual future jerks who would come and steal the "Razor"-label. Besides, most of the other groups used a number too - so why shouldn't we? (We actually had a group of nitwits on Commodore C64 who stole our name for a while and added "Express" behind it - ie "Razor Express". Not many remembers them today though).
+	<p></p>
+	It didn't take us long to realize that 2992 was a dull number. So we came up with 1911 instead. We all agreed on that it sounded much better. Many people has asked us through the years why we chose exactly 1911. The reason is that the scene on Commodore C64 was full of brainless kids who, for some odd reason, enjoyed using 666 (the number of the beast - from the Revelation) on their demos, letters, diskbags and God knows what else. We thought this was rather childish, after all what has occultism got to do in the scene anyway? So we chose 1911 because it translates to $777 (in the hexadecimal number system). 777 happens to be the opposite of 666 and so it was our small "grow-up-and-get-a-clue"-message to the immature kids in the scene. It may also be mentioned that we seem to be immortal and thus GOD-like (777). Later on we used the name "Project $777" in a demo on Amiga to slag off everyone's that we just didn't like in the scene but couldn't find a good excuse to yell at under the Razor-name. This time more people realized what was going on, but most of them thought it was quite funny so we got away with it (we always seem to).
+	<p></p>
+	<img src="groups/razor1911/c64-1.gif" alt="The Real Razor" style="float : right; margin-bottom : 5px; margin-left : 5px; " /> The 64-period was rather short. We made a lot of demos and a few cracks and became one of the better groups here in Norway. However - we didn't come up with too many outstanding productions. A few of them are still in circulation today on those CD-Rom compilations of Commodore 64 demos. Some of them are worth taking a look at, at least as a curiosity. So after a year the group broke up for a while. One half went to TCC while the other half (Sector9 and Doctor No) went to Megaforce (later known on Amiga as Scoopex). This only lasted for about a month - we decided to join Active Cracking Crew. This is where we got in touch with the WORLD for the first time. Through ACC we got to learn how the big crackers of C64 worked, we entered telephone conferences and talked to everyone in the scene that was worth mentioning. About 6 months later we went to one of the big parties at the time. Back then parties were only for the "top elite" people. If you didn't have an invitation and couldn't legitimate yourself you could forget about even entering the place. They were actually even called "COPY-parties", and instead of boring demo competitions we voted for the best cracker of the year (I remember that this year, 1987, it was Mr.Z from Triad, a few votes ahead of Laffen from Raw Deal) and the competition was when Danish Gold (the organizers) came up with a brand new original and every group could have a go simultaneously (If I'm not mistaken <a href="groups.cfm?mode=detail&org=flt">FairLight</a> did some cooperation-crack together with ACC on a James Bond game there). Sorry about the digression folks, I just get really nostalgic from time to time. Anyway, on the plane from Denmark back to Norway we decided to give rebirth to Razor on the Amiga together with two members (Lord S and Hypocrite) from the highly successful cracking group Raw Deal.
+	<p></p>
+	<span class="italic bold">The Amiga - demos are forever!</span> <br />
+	<img src="groups/razor1911/ami-1.gif" alt="The Real Razor" style="float : right; margin-bottom : 5px; margin-left : 5px; " /> The Amiga was really slow in the beginning - nothing happened. No games, no demos, no people, no nothing. But after a year with just sporadic productions from Razor we started putting out demos on a more regular basis (1988). Soon we were among the better demo groups around, and got many members from all over the world. Our demos were usually quite original - new ideas, nice graphics and really catchy music. But still something was missing. The senior members were all aware of the fact that our wish was to become a major cracking group as well as a good demo group, unlike many of the new members. As we were one of the bigger demo groups we occasionally entered phone conferences with the major cracking groups (such as Paranoimia, Accumulators, Eclipse (No, not the new PC-crew), Quartex etc). We became quite good friends with Zodact and Onyx from Accumulators and when they broke up in late 1989 we made them join us. Zodact was the main American supplier (and sysop of a major bbs: The Castle) and Onyx was their main European cracker. All of a sudden we had solved our main problem: ORIGINALS! Besides we had access to two good crackers - Lord S and Onyx.
+	<p></p>
+	We also got heavily into the art of phreaking, so we had plenty of ways of reaching all our contacts around the world. This was way before the masses of lamers got any idea of what was going on, so everything was fairly safe too. During the last two weeks of 1989 we had our two first world-first releases on Amiga - Pocket Rockets and Strip Poker II. (I know they were rather cheesy, but who cares today?) Now we released games on a regular basis for a few months, until we joined a cooperation with Classic on Amiga during spring 1990. This didn't last long when we found out that some of their members tried to stab us in the back (you learn from every mistake you do!). After the break with Classic we continued putting out games until April 1991 (I think it was about 50 games altogether). By the time Amiga started becoming a dull computer to crack on. You had to work like crazy to warp up disks because they all had track-protection, and you had to put out fix after fix after fix for different problems. Among these problems was the NTSC/PAL difference which made it impossible for Americans to play European games without patches and vice versa. Besides there were tons of groups competing on the same games, and usually if you released something you would be double, triple or even quadra(?)-released by other groups because no one could afford to loose on a release. The general economy was also weak, there wasn't enough people with money to keep the group running.
+	<p></p>
+	<span class="italic bold">PC - the building of a dynasty...</span> <br />
+	<img src="groups/razor1911/pc-1.jpg" alt=" Vietnam Squad Battles" style="float : right; margin-bottom : 5px; margin-left : 5px; " />
+	The solution came to us without us really realizing what was going on. A brilliant PC-cracker (Darwin) just happened to live in our neighbourhood. What could be more perfect? It made us able to do everything ourselves, without having to rely on a cracker in another part of the world as we were used to. We closed down the Amiga division (with exception of Sim, Drake, Murdock and Codex who later made the best and most famous demo ever, VOYAGE).
+	<p></p>
+	We restructured the group totally - the group consisted of a more or less anonymous investor, Darwin, Doctor No, Onyx, Zodact, myself, Black Spyrit (SysOp) Red Baron (Sysop EuroHQ) and Langoliar (SysOp WHQ). Together we managed to put out dozens of games on the PC (a few of the first ones was released in cooperation with Skillion(!)) and the response from the PC-scene was immense. Our little tight group quickly grew from a small, compact and efficient one to a MASSIVE release machine. We had no idea things were gonna go so fast. With the exception of a month in late 1991 where Razor was dissolved and became a part of INC we've continuously released games, trainers, docs, intros etc. ever since (There has been over 600 games and countless other productions from us since then). The rest is, as you all know by now, history!
+	<p></p>
+	The most recent thing that needs to be mentioned is our entrance into the world of Internet. With this www-page and a very efficient distribution of releases we are able to reach more people faster than ever before. All skillfully controlled by our highly competent internet staff. The other thing worth mentioning is our introduction into the CD-Rom scene. We sporadically released CD-Rom games under the ROM 1911 label, but didn't pay too much attention to this part of the scene until the lack of floppy games forced us to. So in October 1995 we decided to enter the CD-Rom scene and to we overtook the leading place here too despite of many people claiming that we wouldn't be able to convert such a big group. This just proves that regardless of what we focus our concentration on, we still manage to become among the very best within our genre.
+	<p></p>
+	Of course we've had our problems in the group, this will always happen when sooner or later when a group becomes as big as ours. Twice the group has been split into two (The first time was 1994 when <a href="groups.cfm?mode=detail&org=lgd">Legend</a> was born and the second time in 1995 when <a href="groups.cfm?mode=detail&org=ecl">Eclipse</a> appeared), and both times we've managed to recover thanks to devoted and talented people ready to do a great job for Razor 1911.
+	<p>
+	We have had hundreds of dedicated persons doing their best to keep the group on top at any time.
+	</p><p>
+	<span class="bold">-$ector9-</span> - The complete article can be found at the <a href="http://www.laric.com/razor/history/history.html">Razor 1911 European Page</a></p>
+</div>
+<hr />
+<p>Over the years there have been numerous articles about and interviews conducted with Razor 1911 in the various scene magazines. Below are just a select few that we thought to mention ..
+<p></p>
+<a href="magazines.cfm?mode=detail&amp;title=The%20Naked%20Truth%20Magazine">The Naked Truth magazine</a> had interviews with a few Razor people, specifically in issues 2, 3 and 4. In issue 4 there are two interviews. One is with Sector9, a founding member of the PC division. The other is with Pitbull, who would later get arrested as leader of the group in 2001 during Operation Buccaneer and eventually received a jail sentence of 18 months.
+<p></p>
+<a href="magazines.cfm?mode=detail&amp;title=Inquisition">Inquisition</a> has two interviews in separate issues. In number 1 the interview is with The Speed Racer, leader of the group during 1995-1996. And in issue 7 there is an interview with InsaneTMM one of the original Norwegian founders on the Commodore 64 back in 1985.
+</p>
+<p></p>
+<a href="magazines.cfm?mode=detail&amp;title=Defacto2">Defacto2</a> issue 1 has an interview from very late 1996 with The Punisher. He had just taken over the reigns from The Speed Racer. <a href="magazines.cfm?mode=detail&amp;title=Affinity">Affinity</a> 8 has an in depth feature on the retirement of The Speed Racer and <a href="magazines.cfm?mode=detail&amp;title=Reality%20Check%20Network">Reality Check Network</a> also wrote about them on occasion, though usually in a less than flattering light.
+<p></p>
+<hr />
+Today the Razor 1911 lives on with the document (former pirate division) and the demo division creating a new website at <a href="http://www.razor1911.com"> www.razor1911.com</a>.
+It has a massive collection of all things Razor 1911, and they seem to be even wanting to rekindle the old demo division.
+<p></p>
+<table width="100%" border="0" cellspacing="0" cellpadding="8"  align="center">
+	<tr>
+		<td bgcolor="#000000" width="100%" class="white" style="font-family:Lucida Console, Arial; font-size:14px"><div align="center"><img src="groups/razor1911/amigalogo.gif" alt="Razor Amiga Logo"></div>
+			<br />
+			If you interested in the old Razor 1911 productions that were done for both the Commodore 64 and the Amiga you might want to take a look at these links.
+			<p></p>
+			The <a href="http://www.laric.com/razor/art/art.html">Razor European site</a> has a number of Amiga and PC cracktros and demos to download as well as a few music sound tracker modules.
+			<p></p>
+			Back Stage of Amiga Demos has a dedicated <a href="http://asle.free.fr/groups/Razor/razor.php3">Razor Amiga intro and demo page</a> as well as a <a href="http://asle.free.fr/groups/Razor/razor_logos.php3">collection of old logos</a>.
+			<p></p>
+			Amiga Intro Gallary have a collection of <a href="http://www.geocities.com/amigaintros1/r/razor1911/razor1911.html">12 Amiga crack-intros</a>.
+			<p></p>
+			Most of the files obtain from the above sites will require an emulator such as <a href="http://www.winuae.net">WinUAE</a> or <a href="http://www.freiburg.linux.de/%7Euae/">UAE</a> and a <a href="http://www.google.com.au/search?hl=en&safe=off&q=amiga+kickstart+rom+download&btnG=Search&meta=">Kickstart ROMS</a>.
+			<p></p>
+			Flashtro.com also has a few old Razor Amiga crack-intros that have been remade into <a href="http://www.flashtro.com/list.php?c=art&alpha=R">authentic flash remakes</a>. But the site requires that you register with them before you can view any of the files.
+			<p></p>
+			For the Commodore 64 you can see some screen shots and download a crack-intro done by Razor back in 1986, entitled <a href="http://pirates.emucamp.com/a/t/realrazor/c64/main.html">'The Real Razor'</a>.
+			<p></p>
+			This site has a couple of Razor crack-intros that have been <a href="http://norrish.force9.co.uk/amiga/index_wb31.html">remade in DHTML</a>?! Though they only work in Internet Explorer 5 and up.
+			<p></p>
+			And then there is a flash remake of a different C64 crack-intro at <a href="http://www.docsnyderspage.de/flash4.htm#razor">docsnyderspage</a>. </td>
+	</tr>
+</table>

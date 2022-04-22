@@ -1,0 +1,559 @@
+-------------------------------------------------------------------------
+Complete File Listing for the Mid-Nite-Oil ]I[ Private as of 4/26/92 - 8:25 pm
+-------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+ File Section:Uploads
+-------------------------------------------------------------------------
+  1. BCACID1.ZIP   Free       44k  Body Count ANSi - <ACiD>
+  2.  MLBB82.ZIP   Free       30k  Micro League BB 1982 Roster
+  3.  MLBB83.ZIP   Free       30k  Micro League BB 1983 Roster
+  4.  MLBBOR.ZIP   Free       16k  Micro League BB Baltimore Oriole Roster
+  5.MTHCPINC.ZIP   Free      504k  Math Copter   [INC]
+  6.SJRNYINC.ZIP   Free      650k  Solitaire's Journey  [INC]
+  7.TRSI-JY2.ZIP   Free      574k  John Young II
+-------------------------------------------------------------------------
+ File Section:INC
+-------------------------------------------------------------------------
+  1.A10UPINC.ZIP   Free       61k  A-10 Tank Killer Update 1/1     [INC]
+  2.AARGHINC.ZIP   Free      485k  AARRRGH! 1/1                    [INC]
+  3. ATOMINC.ZIP   Free      263k  Atomino English Version 1/1     [INC]
+  4.BBFCINC1.ZIP   Free      191k  Barney Bears Fun With Colors 1/3[INC]
+  5.BBFCINC2.ZIP   Free      352k  Barney Bears Fun With Colors 2/3[INC]
+  6.BBFCINC3.ZIP   Free      178k  Barney Bears Fun With Colors 3/3[INC]
+  7.BCMINC01.ZIP   Free      232k  Battle Chess Multi-Media 01/28  [INC]
+  8.BCMINC02.ZIP   Free      372k  Battle Chess Multi-Media 02/28  [INC]
+  9.BCMINC03.ZIP   Free      685k  Battle Chess Multi-Media 03/28  [INC]
+ 10.BCMINC04.ZIP   Free      629k  Battle Chess Multi-Media 04/28  [INC]
+ 11.BCMINC05.ZIP   Free      572k  Battle Chess Multi-Media 05/28  [INC]
+ 12.Bcminc06.ZIP   Free      566k  Battle Chess Multi-Media 06/28  [INC]
+ 13.Bcminc07.ZIP   Free      655k  Battle Chess Multi-Media 07/28  [INC]
+ 14.Bcminc08.ZIP   Free      681k  Battle Chess Multi-Media 08/28  [INC]
+ 15.Bcminc09.ZIP   Free      681k  Battle Chess Multi-Media 09/28  [INC]
+ 16.Bcminc10.ZIP   Free      736k  Battle Chess Multi-Media 10/28  [INC]
+ 17.Bcminc11.ZIP   Free      680k  Battle Chess Multi-Media 11/28  [INC]
+ 18.Bcminc12.ZIP   Free      721k  Battle Chess Multi-Media 12/28  [INC]
+ 19.Bcminc13.ZIP   Free      698k  Battle Chess Multi-Media 13/28  [INC]
+ 20.Bcminc14.ZIP   Free      702k  Battle Chess Multi-Media 14/28  [INC]
+ 21.Bcminc15.ZIP   Free      781k  Battle Chess Multi-Media 15/28  [INC]
+ 22.Bcminc16.ZIP   Free      850k  Battle Chess Multi-Media 16/28  [INC]
+ 23.Bcminc17.ZIP   Free      701k  Battle Chess Multi-Media 17/28  [INC]
+ 24.Bcminc18.ZIP   Free      704k  Battle Chess Multi-Media 18/28  [INC]
+ 25.Bcminc19.ZIP   Free      714k  Battle Chess Multi-Media 19/28  [INC]
+ 26.Bcminc20.ZIP   Free      668k  Battle Chess Multi-Media 20/28  [INC]
+ 27.Bcminc21.ZIP   Free      630k  Battle Chess Multi-Media 21/28  [INC]
+ 28.Bcminc22.ZIP   Free      509k  Battle Chess Multi-Media 22/28  [INC]
+ 29.Bcminc23.ZIP   Free      517k  Battle Chess Multi-Media 23/28  [INC]
+ 30.Bcminc24.ZIP   Free      343k  Battle Chess Multi-Media 24/28  [INC]
+ 31.Bcminc25.ZIP   Free      246k  Battle Chess Multi-Media 25/28  [INC]
+ 32.Bcminc26.ZIP   Free      241k  Battle Chess Multi-Media 26/28  [INC]
+ 33.Bcminc27.ZIP   Free      323k  Battle Chess Multi-Media 27/28  [INC]
+ 34.Bcminc28.ZIP   Free      228k  Battle Chess Multi-Media 28/28  [INC]
+ 35.  BJWINC.ZIP   Free      253k  Black Jack for WIndows 1/1      [INC]
+ 36.CIVV3INC.ZIP   Free      308k  Civilization v3.0 Update 1/1    [INC]
+ 37.COSM1INC.ZIP   Free      550k  Cosmo's Cosmic Adventure #1 1/1 [INC]
+ 38. DFINC-1.ZIP   Free      697k  Dragon Flight 1/2               [INC]
+ 39. DFINC-2.ZIP   Free      635k  Dragon Flight 2/2               [INC]
+ 40.DNOGSINC.ZIP   Free      251k  Dreadnoughts Naval Battle 1/1   [INC]
+ 41.  DVPINC.ZIP   Free       68k  Delux Video Poker 1/1           [INC]
+ 42. ELFDINC.ZIP   Free      553k  Elf Playable DEMO 1/1           [INC]
+ 43.FANTMINC.ZIP   Free      621k  Tony LaRussa's Fantasy Manager  [INC]
+ 44. FERNINC.ZIP   Free      199k  Fern Gully: Last Rain 1/1       [INC]
+ 45.FORDINC1.ZIP   Free      435k  Ford Simulator v3.0 1/2         [INC]
+ 46.FORDINC2.ZIP   Free      999k  Ford Simulator v3.0 2/2         [INC]
+ 47.GCONINC1.ZIP   Free      546k  Global Conquests 1/2            [INC]
+ 48.GCONINC2.ZIP   Free      489k  Global Conquests 2/2            [INC]
+ 49.GOLDINC1.ZIP   Free      239k  Golden Eagle II 1/4             [INC]
+ 50.GOLDINC2.ZIP   Free      211k  Golden Eagle II 2/4             [INC]
+ 51.GOLDINC3.ZIP   Free      214k  Golden Eagle II 3/4             [INC]
+ 52.GOLDINC4.ZIP   Free      174k  Golden Eagle II 4/4             [INC]
+ 53.GOLFDINC.ZIP   Free      390k  Golf Doctor 1/1                 [INC]
+ 54.  HACINC.ZIP   Free      191k  Home Alone Coloring Book 1/1    [INC]
+ 55.Haralinc.ZIP   Free      635k  SilverRocks Harald Hartand 1/1  [INC]
+ 56.HEMWINC1.ZIP   Free      180k  Empire of Milkyway Chinese 1/4  [INC]
+ 57.HEMWINC2.ZIP   Free      134k  Empire of Milkyway Chinese 2/4  [INC]
+ 58.HEMWINC3.ZIP   Free      175k  Empire of Milkyway Chinese 3/4  [INC]
+ 59.HEMWINC4.ZIP   Free      153k  Empire of Milkyway Chinese 4/4  [INC]
+ 60.HUGO3INC.ZIP   Free      540k  Hugo III: Jungle of Doom 1/1    [INC]
+ 61. JNSINC1.ZIP   Free      953k  Jack Nicholas Signature Golf 1/2[INC]
+ 62. JNSINC2.ZIP   Free      919k  Jack Nicholas Signature Golf 2/2[INC]
+ 63.KABDINC1.ZIP   Free     1168k  Knowledge Adventture Bonus 1/2  [INC]
+ 64.KABDINC2.ZIP   Free     1177k  Knowledge Adventure Bonus 2/2   [INC]
+ 65.KOTUPINC.ZIP   Free       71k  Knights of The Sky Update 1/1   [INC]
+ 66.Madtvinc.ZIP   Free      983k  Mad TV 1/1                      [INC]
+ 67.MAUPINC1.ZIP   Free      192k  Maupiti Island English 1/2      [INC]
+ 68.MAUPINC2.ZIP   Free      556k  Maupiti Island English 2/2      [INC]
+ 69. MEUINC1.ZIP   Free      248k  Manchester European Soccer 1/2  [INC]
+ 70. MEUINC2.ZIP   Free      166k  Manchester European Soccer 2/2  [INC]
+ 71. Mmc-inc.ZIP   Free      668k  Mutantnoid Math Challenge 1/1   [INC]
+ 72. PE_INC1.ZIP   Free     1182k  Planets Edge 1/3                [INC]
+ 73. PE_INC2.ZIP   Free     1187k  Planets Edge 2/3                [INC]
+ 74. PE_INC3.ZIP   Free     1168k  Planets Edge 3/3                [INC]
+ 75. RHPINC1.ZIP   Free      199k  Fairytale Comic Book Maker 1/2  [INC]
+ 76. RHPINC2.ZIP   Free      333k  Fairytale Comic Book Maker 2/2  [INC]
+ 77.SKI2INC1.ZIP   Free      367k  Super Ski II 1/2                [INC]
+ 78.SKI2INC2.ZIP   Free      503k  Super Ski II 2/2                [INC]
+ 79.SMFUTINC.ZIP   Free      954k  SIM City Future Cities 1/1      [INC]
+ 80. STADINC.ZIP   Free      449k  Tony LaRussa's Stadium Disk 1/1 [INC]
+ 81.STORMINC.ZIP   Free      579k  Storm Master 1/1                [INC]
+ 82.TRON-INC.ZIP   Free       43k  The Ultimate Tron Game 1/1      [INC]
+ 83.  U71INC.ZIP   Free     1486k  Ultima VII 1/6                  [INC]
+ 84.  U72INC.ZIP   Free     1426k  Ultima VII 2/6                  [INC]
+ 85.  U73INC.ZIP   Free     1426k  Ultima VII 3/6                  [INC]
+ 86.  U74INC.ZIP   Free     1426k  Ultima VII 4/6                  [INC]
+ 87.  U75INC.ZIP   Free     1424k  Ultima VII 5/6                  [INC]
+ 88.  U76INC.ZIP   Free     1381k  Ultima VII 6/6                  [INC]
+ 89.UUSAINC1.ZIP   Free     1377k  Ultima Underworld 1/4           [INC]
+ 90.Uusainc2.ZIP   Free     1408k  Ultima Underworld 2/4           [INC]
+ 91.Uusainc3.ZIP   Free     1420k  Ultima Underworld 3/4           [INC]
+ 92.Uusainc4.ZIP   Free     1123k  Ultima Underworld 4/4           [INC]
+ 93. UWUPINC.ZIP   Free      227k  Ultima UnderWorld Update [1/1]   [INC]
+ 94.  WR1INC.ZIP   Free      343k  Word Rescue Part I 1/1          [INC]
+ 95.WWRRINC1.ZIP   Free      325k  Wild West Rail Road Robbers 1/2 [INC]
+ 96.WWRRINC2.ZIP   Free      102k  Wild West Rail Road Robbers 2/2 [INC]
+-------------------------------------------------------------------------
+ File Section:FLT
+-------------------------------------------------------------------------
+  1. 4QUEENZ.ZIP   Free      378k  IV Queens Computer Casino 1/1   [FLT]
+  2. ACQUIRE.ZIP   Free      117k  Acquire 1/1                     [FLT]
+  3.JNPB-FLT.ZIP   Free      183k  Jack Nickalous PimBrook Course  [FLT]
+  4.SBRIDGE1.ZIP   Free      115k  Super Bridge 1/2                [FLT]
+  5.SBRIDGE2.ZIP   Free       38k  Super Bridge 2/2                [FLT]
+  6. SROGUE1.ZIP   Free     1161k  Sea Rogue 1/4                   [FLT]
+  7. SROGUE2.ZIP   Free     1163k  Sea Rogue 2/4                   [FLT]
+  8. SROGUE3.ZIP   Free     1118k  Sea Rogue 3/4                   [FLT]
+  9. SROGUE4.ZIP   Free      894k  Sea Rogue 4/4                   [FLT]
+ 10.WOF3-FLT.ZIP   Free      142k  Wheel of Fortune v3.0 1/1       [FLT]
+-------------------------------------------------------------------------
+ File Section:USA
+-------------------------------------------------------------------------
+  1.  BFMINC.ZIP   Free      284k  Microleague Fantasy Manager USA Edition
+-------------------------------------------------------------------------
+ File Section:RAZOR
+-------------------------------------------------------------------------
+  1.AMGLAD-1.ZIP   Free      524k  American Gladiator 1/3        [RAZOR]
+  2.Amglad-2.ZIP   Free      568k  American Gladiator 2/3        [RAZOR]
+  3.Amglad-3.ZIP   Free      531k  American Gladiator 3/3        [RAZOR]
+  4.CRIBMPC1.ZIP   Free      236k  Cribbage Master for Windows[1/2][RAZOR]
+  5.CRIBMPC2.ZIP   Free      694k  Cribbage Master for Windows[2/2][RAZOR]
+  6.   He162.ZIP   Free      431k  HE 162 Volksjaeger SWOTL 1/1  [RAZOR]
+  7.   KOREA.ZIP   Free      495k  Conflict in Korea [1/1] [RAZOR]
+  8.PHOBOS01.ZIP   Free      722k  Leather Godesses II 01/17     [RAZOR]
+  9.PHOBOS02.ZIP   Free      714k  Leather Godesses II 02/17     [RAZOR]
+ 10.PHOBOS03.ZIP   Free      714k  Leather Godesses II 03/17     [RAZOR]
+ 11.PHOBOS04.ZIP   Free      714k  Leather Godesses II 04/17     [RAZOR]
+ 12.PHOBOS05.ZIP   Free      713k  Leather Godesses II 05/17     [RAZOR]
+ 13.PHOBOS06.ZIP   Free      714k  Leather Godesses II 06/17     [RAZOR]
+ 14.PHOBOS07.ZIP   Free      714k  Leather Godesses II 07/17     [RAZOR]
+ 15.PHOBOS08.ZIP   Free      714k  Leather Godesses II 08/17     [RAZOR]
+ 16.PHOBOS10.ZIP   Free      714k  Leather Godesses II 10/17 [RAZOR]
+ 17.PHOBOS11.ZIP   Free      714k  Leather Godesses II 11/17 [RAZOR]
+ 18.PHOBOS12.ZIP   Free      714k  Leather Godesses II 12/17 [RAZOR]
+ 19.PHOBOS13.ZIP   Free      714k  Leather Godesses II 13/17 [RAZOR]
+ 20.PHOBOS14.ZIP   Free      714k  Leather Godesses II 14/17 [RAZOR]
+ 21.PHOBOS15.ZIP   Free      714k  Leather Godesses II 15/17 [RAZOR]
+ 22.PHOBOS16.ZIP   Free      714k  Leather Godesses II 16/17 [RAZOR]
+ 23.PHOBOS17.ZIP   Free      436k  Leather Godesses II 17/17 [RAZOR]
+ 24. PHOBOS9.ZIP   Free      714k  Leather Godesses II 9/17 [RAZOR]
+ 25.PLANED-1.ZIP   Free      227k  UMS II Planet Editor 1/3      [RAZOR]
+ 26.PLANED-2.ZIP   Free      296k  UMS II Planet Editor 2/3      [RAZOR]
+ 27.PLANED-3.ZIP   Free      136k  UMS II Planet Editor 3/3      [RAZOR]
+ 28.RZDRQU-1.ZIP   Free     1180k  Secret Island of Dr. Q 1/2    [RAZOR]
+ 29.RZDRQU-2.ZIP   Free      915k  Secret Island of Dr. Q 2/2    [RAZOR]
+ 30.SIDRQU-1.ZIP   Free     1181k  Secret Island of Dr. Q 1/2    [RAZOR]
+ 31.SIDRQU-2.ZIP   Free      916k  Secret Island of Dr. Q 2/2    [RAZOR]
+-------------------------------------------------------------------------
+ File Section:TDT
+-------------------------------------------------------------------------
+  1. AWE1TDT.ZIP   Free      645k  Another World English ver 1/2   [TDT]
+  2. AWE2TDT.ZIP   Free      632k  Another World English ver 2/2   [TDT]
+  3. BIE1TDT.ZIP   Free      998k  Battle Island English 1/2       [TDT]
+  4. BIE2TDT.ZIP   Free      880k  Battle Island English 2/2       [TDT]
+  5.DYLD1TDT.ZIP   Free      704k  Dylan Dog 1/2                   [TDT]
+  6.DYLD2TDT.ZIP   Free      616k  Dylan Dog 2/2                   [TDT]
+  7.  Foxtdt.ZIP   Free      708k  Foxster 1/1                     [TDT]
+  8.   GAZZ2.ZIP   Free      406k  Gazz II Soccer 1/1              [TDT]
+  9.GOSIMTDT.ZIP   Free      421k  Gosi-Mini 1/1                   [TDT]
+ 10.HERO1TDT.ZIP   Free      265k  Hero Quest 1/2                  [TDT]
+ 11.HERO2TDT.ZIP   Free      461k  Hero Quest 2/2                  [TDT]
+ 12. IBC1TDT.ZIP   Free      559k  Ian Botham's Cricket 1/2        [TDT]
+ 13. IBC2TDT.ZIP   Free      413k  Ian Botham's Cricket 2/2        [TDT]
+ 14.IHOKLTDT.ZIP   Free      409k  International Hockey League 1/1 [TDT]
+ 15. LEG1TDT.ZIP   Free      592k  Legends 1/2                     [TDT]
+ 16. LEG2TDT.ZIP   Free      576k  Legends 2/2                     [TDT]
+ 17. LMBBTDT.ZIP   Free      485k  Mermaid & Beast Print Kit 1/1   [TDT]
+ 18.MID2TDT1.ZIP   Free      307k  Mid Winter II 1/2               [TDT]
+ 19.MID2TDT2.ZIP   Free      625k  Mid Winter II 2/2               [TDT]
+ 20. MIG1TDT.ZIP   Free      596k  Miglia 1000 1/2                 [TDT]
+ 21. MIG2TDT.ZIP   Free      645k  Miglia 1000 2/2                 [TDT]
+ 22.Redbutdt.ZIP   Free      312k  Red Baron VGA Update 1/1        [TDT]
+ 23.SEAR1TDT.ZIP   Free      714k  Sea Rouge v2.95 1/7             [TDT]
+ 24.SEAR2TDT.ZIP   Free      691k  Sea Rouge v2.95 2/7             [TDT]
+ 25.SEAR3TDT.ZIP   Free      703k  Sea Rouge v2.95 3/7             [TDT]
+ 26.SEAR4TDT.ZIP   Free      677k  Sea Rouge v2.95 4/7             [TDT]
+ 27.SEAR5TDT.ZIP   Free      669k  Sea Rouge v2.95 5/7             [TDT]
+ 28.SEAR6TDT.ZIP   Free      635k  Sea Rouge v2.95 6/7             [TDT]
+ 29.Sear7tdt.ZIP   Free      263k  Sea Rouge v2.95 7/7             [TDT]
+ 30.Stormtdt.ZIP   Free      612k  Storm Master 1/1                [TDT]
+ 31.  WCSTDT.ZIP   Free      221k  World Class Soccer 1/1          [TDT]
+-------------------------------------------------------------------------
+ File Section:THG
+-------------------------------------------------------------------------
+  1.Bgroyale.ZIP   Free      166k  BackGammon Royal 1/1            [THG]
+  2.FANTDIZZ.ZIP   Free      195k  Fantasy World Disney 1/1        [THG]
+  3. FAPACHE.ZIP   Free      261k  Fort Apache 1/1                 [THG]
+  4.HEIMDAL1.ZIP   Free      554k  Heimdal 1/5                    [THG]
+  5.HEIMDAL2.ZIP   Free      732k  Heimdal 2/5                    [THG]
+  6.HEIMDAL3.ZIP   Free      642k  Heimdal 3/5                    [THG]
+  7.HEIMDAL4.ZIP   Free      807k  Heimdal 4/5                    [THG]
+  8.HEIMDAL5.ZIP   Free      753k  Heimdal 5/5                    [THG]
+  9.OMARSRF1.ZIP   Free      352k  Omar Sharif on Bridge 1/2       [THG]
+ 10.OMARSRF2.ZIP   Free      280k  Omar Sharif on Bridge 2/2       [THG]
+ 11. STEEL_1.ZIP   Free      224k  Steel Empire 1/3                [THG]
+ 12. STEEL_2.ZIP   Free      517k  Steel Empire 2/3                [THG]
+ 13. STEEL_3.ZIP   Free      284k  Steel Empire 3/3                [THG]
+ 14.STNT11-1.ZIP   Free      572k  Stunts v1.1 Update 1/2          [THG]
+ 15.STNT11-2.ZIP   Free      544k  Stunts v1.1 Update 2/2          [THG]
+-------------------------------------------------------------------------
+ File Section:TRSI
+-------------------------------------------------------------------------
+  1.TRSI-REV.ZIP   Free      143k  Revelation 1/1                         
+  2. TRSICOL.ZIP   Free      407k  Colour Busters 1/1             [TRSI]
+  3.TRSIDOUB.ZIP   Free      519k  Double Mind 1/1               [TRSI]
+  4.TRSIHOT1.ZIP   Free      249k  Hot Rubber 1/4                 [TRSI]
+  5.TRSIHOT2.ZIP   Free      224k  Hot Rubber 2/4                 [TRSI]
+  6.TRSIHOT3.ZIP   Free      214k  Hot Rubber 3/4                 [TRSI]
+  7.TRSIHOT4.ZIP   Free      232k  Hot Rubber 4/4                 [TRSI]
+  8.TRSIMAU1.ZIP   Free      241k  Maupiti Island Euro 1/3        [TRSI]
+  9.TRSIMAU2.ZIP   Free      285k  Maupiti Island Euro 2/3        [TRSI]
+ 10.TRSIMAU3.ZIP   Free      265k  Maupiti Island Euro 3/3        [TRSI]
+ 11. TRSIPIN.ZIP   Free      263k  Pinball Magic 1/1              [TRSI]
+ 12.Trsisam1.ZIP   Free      240k  Samarai: Way of The Warrior 1/3[TRSI]
+ 13.Trsisam2.ZIP   Free      145k  Samarai: Way of The Warrior 2/3[TRSI]
+ 14.Trsisam3.ZIP   Free      221k  Samarai: Way of The Warrior 3/3[TRSI]
+ 15. Trsitu2.ZIP   Free      386k  Turn It 2 1/1                  [TRSI]
+ 16.Trsi_fox.ZIP   Free      701k  Foxster 1/1                    [TRSI]
+-------------------------------------------------------------------------
+ File Section:DRG
+-------------------------------------------------------------------------
+  1. DRG-SC1.ZIP   Free     1235k  Soul Crystal 1/3                [DRG]
+  2. DRG-SC2.ZIP   Free      835k  Soul Crystal 2/3                [DRG]
+  3. DRG-SC3.ZIP   Free      895k  Soul Crystal 3/3                [DRG]
+  4.DRG-SSG1.ZIP   Free      226k  Shadow Sorcerer 1/3             [DRG]
+  5.DRG-SSG2.ZIP   Free      313k  Shadow Sorcerer 2/3             [DRG]
+  6.DRG-SSG3.ZIP   Free      317k  Shadow Dorcerer 3/3             [DRG]
+-------------------------------------------------------------------------
+ File Section:XEROX
+-------------------------------------------------------------------------
+  1.IMPERTOR.ZIP   Free      366k  Imperator 1/1                 [XEROX]
+  2.  X-a320.ZIP   Free      337k  Air Bus 1/1                   [XEROX]
+  3.X-cov-g1.ZIP   Free      190k  Cover Girl Strip Poker 1/6    [XEROX]
+  4.X-cov-g2.ZIP   Free      211k  Cover Girl Strip Poker 2/6    [XEROX]
+  5.X-cov-g3.ZIP   Free      241k  Cover Girl Strip Poker 3/6    [XEROX]
+  6.X-cov-g4.ZIP   Free      247k  Cover Girl Strip poker 4/4    [XEROX]
+  7.X-cov-g5.ZIP   Free      226k  Cover Girl Strip poker 5/6    [XEROX]
+  8.X-cov-g6.ZIP   Free      192k  Cover Girl Strip Poker 6/6    [XEROX]
+  9.X-hotel1.ZIP   Free      448k  Hotel Steinburger 1/2         [XEROX]
+ 10.X-hotel2.ZIP   Free      345k  Hotel Steinburger  2/2        [XEROX]
+ 11. X-SHUT1.ZIP   Free      269k  Shuttle English 1/5           [XEROX]
+ 12. X-SHUT2.ZIP   Free      217k  Shuttle English 2/5           [XEROX]
+ 13. X-SHUT3.ZIP   Free      259k  Shuttle English 3/5           [XEROX]
+ 14. X-SHUT4.ZIP   Free      236k  Shuttle English 4/5           [XEROX]
+ 15. X-SHUT5.ZIP   Free      109k  Shuttle English 5/5           [XEROX]
+-------------------------------------------------------------------------
+ File Section:MISC
+-------------------------------------------------------------------------
+  1.  #1GTIX.ZIP   Free      530k  Galactix 1/1
+  2.ANOTHER1.ZIP   Free      684k  Out of this World  1/2
+  3.ANOTHER2.ZIP   Free      630k  Out of this World 2/2
+  4.CASCENE1.ZIP   Free      228k  California Scenery MS FS v4.0 1/3
+  5.CASCENE2.ZIP   Free      228k  California Scenery MS FS v4.0 2/3
+  6.CASCENE3.ZIP   Free      108k  California Scenery MS FS v4.0 3/3
+  7.Cdromdri.ZIP   Free       26k  CD Rom Drivers for Wing Commander
+  8.COLMENA1.ZIP   Free      402k  La Colmena 1/3
+  9.COLMENA2.ZIP   Free      690k  La Colmena 2/3
+ 10.COLMENA3.ZIP   Free      663k  La Colmena 3/3
+ 11.  Connex.ZIP   Free      116k  Connex 1/1
+ 12.CORPNCA1.ZIP   Free      216k  Corporation v2.0 1/4            [NCA]
+ 13.CORPNCA2.ZIP   Free      126k  Corporation v2.0 2/4            [NCA]
+ 14.CORPNCA3.ZIP   Free      114k  Corporation v2.0 3/4            [NCA]
+ 15.CORPNCA4.ZIP   Free      109k  Corporation v2.0 4/4            [NCA]
+ 16. Cricket.ZIP   Free      399k  International Cricket Challenge 1/1
+ 17. Dawgfit.ZIP   Free      289k  Dawgfit: When Hillbillies Fly 1/1
+ 18.Dgen1-hj.ZIP   Free      537k  Degeneration Full Release 1/2
+ 19.Dgen2-hj.ZIP   Free      453k  Degeneration Full Release 2/2
+ 20.DVGAMES1.ZIP   Free      445k  Dvorak's Guide to PC Games 1/2  [POW]
+ 21.DVGAMES2.ZIP   Free      351k  Dvorak's Guide to PC Games 2/2  [POW]
+ 22.  EARL90.ZIP   Free       41k  Earl Weaver Baseball 1990 Stats 1/1
+ 23.ELECTROB.ZIP   Free      725k  Electro Body 1/1
+ 24. GALXREG.ZIP   Free      607k  Galaxy Registered 1/1
+ 25. HYPEAPP.EXE   Free       14k  HYPE VGA Application v1.0 [HYPE]
+ 26. JET1PTS.ZIP   Free      245k  The Jetsons Arcade 1/2      [PIRATES]
+ 27. JET2PTS.ZIP   Free      292k  The Jetsons Arcade 2/2      [PIRATES]
+ 28.JONESCD1.ZIP   Free     1595k  Jones in The Fast Lane CD ROM 1/9
+ 29.JONESCD2.ZIP   Free     1424k  Jones in The Fast Lane CD ROM 2/9
+ 30.JONESCD3.ZIP   Free     1424k  Jones in The Fast Lane CD ROM 3/9
+ 31.JONESCD4.ZIP   Free     1424k  Jones in The Fast Lane CD ROM 4/9
+ 32.JONESCD5.ZIP   Free     1424k  Jones in The Fast Lane CD ROM 5/9
+ 33.JONESCD6.ZIP   Free     1425k  Jones in The Fast Lane CD ROM 6/9
+ 34.JONESCD7.ZIP   Free     1425k  Jones in The Fast Lane CD ROM 7/9
+ 35.JONESCD8.ZIP   Free     1424k  Jones in The Fast Lane CD ROM 8/9
+ 36.JONESCD9.ZIP   Free      597k  Jones in The Fast Lane CD ROM 9/9
+ 37. JOURNEY.ZIP   Free      332k  Ancients I: The Death Watch 1/1
+ 38.LIST181R.ZIP   Free      375k  Berg's List v1.81 Registered
+ 39.   Loopz.ZIP   Free      526k  Loopz 1/1
+ 40.MC-UTEMC.ZIP   Free      335k  Merchant Colony 1/1             [EMC]
+ 41.  MC2V13.ZIP   Free      230k  Magic Candle II v1.3 Update 1/1
+ 42.MSTGLFWN.ZIP   Free     1408k  Microsoft Golf for Windows 1/1
+ 43. MUSTANG.ZIP   Free       73k  WW II Arcade for DOS & Windows 1/1
+ 44.NL92LST2.ZIP   Free       30k  NL '92 Roster for Fantasy Manager 1/1
+ 45.NYTPUZZL.ZIP   Free      637k  N.Y. Times Crossword Puzzle Windows
+ 46.  OPFROG.ZIP   Free      493k  Operation Frog Megafortress 1/1
+ 47. Out-nem.ZIP   Free      413k  Outsmart Nemesis 1/1
+ 48.PACIFIC1.ZIP   Free      374k  Team Yankee II: Pacific Islands
+ 49.PACIFIC2.ZIP   Free      256k  Team Yankee II: Pacific Islands
+ 50. PCMWING.ZIP   Free      360k  PC Magazine Windows Games Review
+ 51.PKCONTST.ZIP   Free       15k  Pkwarez Encryption Contest Win $1000
+ 52.PLAYROM1.ZIP   Free      219k  Play Room Update 1/2
+ 53.PLAYROM2.ZIP   Free      305k  Play Room Update 2/2
+ 54.RED_HOOD.ZIP   Free      968k  Little Red Riding Rood 1/1
+ 55. ROBIN-B.ZIP   Free      253k  Robin Hood Boot 1/2
+ 56. ROBIN-V.ZIP   Free      294k  Robin Hood /VGA 2/2
+ 57. ROCKINC.ZIP   Free      184k  Rock*A*Doodle Vga Coloring Book
+ 58.  RS2THP.ZIP   Free      271k  RS/2 R-Type Game 1/1            [THP]
+ 59.  SANGO1.ZIP   Free      481k  Three Kingdom Adventure 1/3
+ 60.  SANGO2.ZIP   Free      520k  Three Kingdom Adventure 2/3
+ 61.  SANGO3.ZIP   Free      411k  Three Kingdom Adventure 3/3
+ 62. SIMANCT.ZIP   Free     1184k  SIM City Ancient Cities 1/1
+ 63.SIMCTWIN.ZIP   Free      681k  SIM City for Windows 1/1
+ 64.  SIMSEX.ZIP   Free     1396k  Sim Sex: Sex in Virtual Reality [1/1]
+ 65. SPC-TH1.ZIP   Free      608k  Thunder Hawk  1/2
+ 66. SPC-TH2.ZIP   Free      594k  Thunder Hawk  2/2
+ 67.SPORTCRD.ZIP   Free      250k  Sports Card Database
+ 68. STARFLD.ZIP   Free       35k  Star Field Game for Windows 1/1
+ 69. STARS91.ZIP   Free        7k  Wayne Gretzky Hockey 91 All Stars 1/1
+ 70.STELL7-1.ZIP   Free     1424k  Steller7 CD-ROM 1/9
+ 71.STELL7-2.ZIP   Free     1424k  Steller7 CD-ROM 2/9
+ 72.STELL7-3.ZIP   Free     1424k  Steller7 CD-ROM 3/9
+ 73.STELL7-4.ZIP   Free     1424k  Steller7 CD-ROM 4/9
+ 74.STELL7-5.ZIP   Free     1424k  Steller7 CD-ROM 5/9
+ 75.STELL7-6.ZIP   Free     1424k  Steller7 CD-ROM 6/9
+ 76.STELL7-7.ZIP   Free     1424k  Steller7 CD-ROM 7/9
+ 77.STELL7-8.ZIP   Free      421k  Steller7 CD-ROM 8/9
+ 78.STELL7-9.ZIP   Free     1353k  Steller7 CD-ROM 9/9
+ 79.   SUNNY.ZIP   Free      128k  Jack Nickalaus Course
+ 80.SYNBRIDG.ZIP   Free      176k  Super Bridge Cup Update 1/1     [$YN]
+ 81. SYNWOLF.ZIP   Free      454k  Castle Wolfenstien 3-D 1/1      [$YN]
+ 82.TLFANT92.ZIP   Free      562k  Tony La Russa'a BB '92 Teams Disk 1/1
+ 83.TLI-BJO1.ZIP   Free      196k  Baby Jo 1/4                     [TLI]
+ 84.TLI-BJO2.ZIP   Free      152k  Baby Jo 2/4                     [TLI]
+ 85.TLI-BJO3.ZIP   Free      182k  Baby Jo 3/4                     [TLI]
+ 86.TLI-BJO4.ZIP   Free      135k  Baby Jo 4/4                     [TLI]
+ 87.Tony1990.ZIP   Free       82k  Tony Larussa's 1990 Teams Disk
+ 88. TREAS-1.ZIP   Free      636k  Treasure of the Savage Frontier  1/3
+ 89. TREAS-2.ZIP   Free      474k  Treasure of the Savage Frontier  2/3
+ 90. TREAS-3.ZIP   Free      601k  Treasure of the Savage Frontier  3/3
+ 91.  VGAMAZ.ZIP   Free       72k  VGA Maze Maker 1/1
+ 92. WARZONE.ZIP   Free      156k  Jack Nickalaus Course
+ 93.WCCD-R-1.ZIP   Free     1463k  Wing Commander Enhanced CD-ROM 1/7
+ 94.WCCD-R-2.ZIP   Free     1425k  Wing Commander Enhanced CD-ROM 2/7
+ 95.WCCD-R-3.ZIP   Free     1425k  Wing Commander Enhanced CD-ROM 3/7
+ 96.WCCD-R-4.ZIP   Free     1425k  Wing Commander Enhanced CD-ROM 4/7
+ 97.WCCD-R-5.ZIP   Free     1425k  Wing Commander Enhanced CD-ROM 5/7
+ 98.WCCD-R-6.ZIP   Free     1423k  Wing Commander Enhanced CD-ROM 6/7
+ 99.WCCD-R-7.ZIP   Free      317k  Wing Commander Enhanced CD-ROM 7/7
+100. WINARCD.ZIP   Free      228k  Windows Arcade Solid Gold 1/1
+101.  WINSPI.ZIP   Free       40k  WINSpider Windows Game 1/1
+102. WINTREK.ZIP   Free      582k  WinTrek Windows Game 1/1
+-------------------------------------------------------------------------
+ File Section:Dox Cheats Fixes and Updates
+-------------------------------------------------------------------------
+  1.4DB2TRN0.ZIP   Free        9k  4 D Boxing v2.0 Trainer
+  2. 4queens.ZIP   Free       10k  Dox for 4 Queens
+  3. A1015-1.ZIP   Free      465k  A10 Tank Killer v1.5 Update     [1/2]
+  4. A1015-2.ZIP   Free      574k  A10 Tank Killer v1.5 Update     [2/2]
+  5.A10PATCH.ZIP   Free       57k  A10 Tank Killer v.1.5 Patch
+  6. A320dox.ZIP   Free       14k  Dox for Air Bus
+  7.Advancht.ZIP   Free        3k  Pro Tennis Tour II Cheat
+  8.AGLADTDT.DOC   Free        9k  American Gladiator Dox
+  9.ANESTHCR.ZIP   Free       99k  Anestisia Fixed
+ 10.Argt0inc.ZIP   Free       10k  AARRG! Trainer
+ 11.AW-ACCOD.ZIP   Free        2k  Another World Codes
+ 12.Aw-crack.ZIP   Free       27k  Another World Crack
+ 13.AWRLDCRK.ZIP   Free       25k  Another World Fix
+ 14.AW_SOLVE.ZIP   Free        7k  Another World Solve
+ 15.  BC2UPG.ZIP   Free       73k  Battle Chess II Update
+ 16.  BCMFIX.ZIP   Free        5k  Battle Chess Splicer [FIX]
+ 17.Bgroydox.ZIP   Free       19k  Backgammom Royal Dox
+ 18.BISLEDOX.ZIP   Free       23k  Battle Island English Dox
+ 19.Cachtinc.NFO   Free        3k  
+ 20.CACHTINC.ZIP   Free        3k  Comic Cosmic Adventure Cheat
+ 21.CIVIL-U1.ZIP   Free      875k  Civilation Update               [1/2]
+ 22.CIVIL-U2.ZIP   Free      882k  Civilation Update               [2/2]
+ 23.CIVIL_02.ZIP   Free      148k  Civilation .02 Update
+ 24.COSM1CHT.ZIP   Free       12k  Cheat for Cosmo #1
+ 25.CREV_TRN.ZIP   Free        3k  Color Revelation Trainer
+ 26. Crue-pe.ZIP   Free       32k  Planet Edge Cheat              [CRUE]
+ 27. Dance_2.ZIP   Free      171k  Dance of the Planets            [2/4]
+ 28.  Ddtrn0.ZIP   Free        8k  Dylan Dog Trainer
+ 29.DRQHDFIX.ZIP   Free        8k  Secret Island of Dr. Q / Hd Install
+ 30.  EBTRN0.ZIP   Free        9k  Electro Body Trainer
+ 31.  F3arms.ZIP   Free       69k  Falcon 3.0 Armement Patch
+ 32.F3falcnr.ZIP   Free      110k  Falcon v.C Gas and Pilot Cheat
+ 33.  Fac3in.ZIP   Free       31k  Falcon 3.0 Install Update
+ 34.  FLYDOC.ZIP   Free        8k  Fly The Grand Canyon Dox
+ 35. Foxdoxs.ZIP   Free        6k  Foxter Doxs
+ 36. Fronted.ZIP   Free       13k  Font Editor for Planets Edge
+ 37. GALTRN0.ZIP   Free       10k  Galactix Trainer
+ 38.   GCDOX.ZIP   Free       43k  Global Conquests Dox
+ 39. GOLDDOX.ZIP   Free        4k  Golden Egale Dox
+ 40.HERO_TRN.ZIP   Free        8k  Hero Quest Trainer
+ 41.Hqst-dox.ZIP   Free       29k  Heros Quest Dox
+ 42.HUGO3HNT.ZIP   Free        4k  Hugo III Hints
+ 43. JETSFIX.ZIP   Free       36k  Jetsons Fix
+ 44.JNDESIGN.ZIP   Free      110k  Jack Nickalaus Design Update 1/1
+ 45.JNGSFINC.ZIP   Free      116k  Jack Nickalaus Signature Golf Fix
+ 46.JOEVTRN0.ZIP   Free        8k  Baby Joe VGA Trainer
+ 47.KMIG_TRN.ZIP   Free        4k  1000 Miglia Trainer
+ 48.KUWA_TRN.ZIP   Free        4k  Assualt on Kuwait Trainer
+ 49.  LEGDOX.ZIP   Free       43k  Legend Dox
+ 50. Legedit.ZIP   Free        6k  Legend Character Editor
+ 51.LEGPATCH.ZIP   Free       39k  Legends Install Fix
+ 52.LGOP2DOX.ZIP   Free       25k  Leather Goddess II Dox
+ 53.LGOP2FIX.ZIP   Free       81k  Leather Goddesses of Phobos ][ FIX
+ 54.LGOP2SOL.ZIP   Free        7k  Leather Goddess II Solve
+ 55.LGP2DCHK.ZIP   Free        4k  Leather Goddess II Fix
+ 56. Lof-nem.ZIP   Free     1226k  Legend of Saerghail 1/1      [NEMEIS]
+ 57.MADTVTRN.ZIP   Free        4k  Mad TV Trainer
+ 58.MANUEDOX.ZIP   Free       19k  Manchester United Europe Dox
+ 59. MEGAUPD.ZIP   Free      409k  Mega Fortress Update 1/1
+ 60.MID2-DOX.ZIP   Free      115k  Mid-Winter II Dox
+ 61. MIGITDT.ZIP   Free       54k  Migilia 1000 Fix
+ 62.MIGLTRN0.ZIP   Free       10k  Miglia 1000 Trainer
+ 63.Migltrn0.ZIP   Free       10k  Migillia 1000 Trainer
+ 64.MOONGATE.ZIP   Free        2k  Ultima VII Moon Gate List
+ 65.Mwii_trn.ZIP   Free        4k  Mid Winter II  Trainer
+ 66.PACIFDOX.ZIP   Free      144k  Pacific Island Dox
+ 67.PE-QUICK.DOX   Free       13k  Planet Edge Quick Dox
+ 68. Pecheat.ZIP   Free       29k  Planets Edge Cheat
+ 69. Pecrack.ZIP   Free      111k  Planet Edge Fix
+ 70.PEDGEDIT.ZIP   Free       24k  Character Editor for Planet's Edge
+ 71.Pedgedit.ZIP   Free       25k  Planets Edge Editor
+ 72.PEFIXNYC.ZIP   Free       10k  Planets Edge Fix
+ 73.PLAN-DOX.ZIP   Free       27k  Planet's Edge Dox
+ 74.PLANMAPS.ZIP   Free      379k  Planets Edge Maps
+ 75.  RBVGA3.ZIP   Free      154k  Red Baron VGA Update 3
+ 76.  Rbvga5.ZIP   Free      155k  Red Baron VGA Update 5
+ 77. ROCKDOX.ZIP   Free        7k  Rock a Doodle Dox
+ 78.Runesnsn.ZIP   Free        3k  Utlima Under World Magic Runes Dox
+ 79.SAV2CRUE.ZIP   Free       24k  Treasure's of Savage Frontier Cheat
+ 80.SIDQ-DOX.ZIP   Free        5k  Dox for Dr. Quandry
+ 81.Sidqsolv.ZIP   Free       36k  Doctor Q. Solve
+ 82. SIMCT11.ZIP   Free      681k  Sim City for Windows v1.01 Bug Fixes
+ 83.SRGEDINC.ZIP   Free       25k  Sea Rouge Editor
+ 84.  SROGUE.DOX   Free        5k  Sea Rouge Dox
+ 85.  Srogue.DOX   Free        5k  Space Rouge Dox
+ 86.  SRTIPS.ZIP   Free        6k  Sea Rogue Tips
+ 87.STEMPDOX.ZIP   Free       39k  Steel Empire Dox
+ 88. STFTRN0.ZIP   Free       10k  Street Fighter VGA Trainer [INC]
+ 89.  STLCHT.ZIP   Free       39k  Steel Empire Cheat
+ 90.STMASDOX.ZIP   Free       24k  Storm Master Dox
+ 91. T2000-U.ZIP   Free     1378k  Twilight 2000 Update
+ 92.Titf_trn.ZIP   Free       14k  Foxter Trainer
+ 93.TREASDOX.ZIP   Free       29k  Treasure Savage Frontier Dox
+ 94.Trsi-srp.ZIP   Free       53k  Space Rouge Fix                [TRSI]
+ 95.TRSI-SRP.ZIP   Free       62k  Sea Rogue [FIX] From TRSI-FLT fucked it
+ 96. Tsftrn0.ZIP   Free        9k  Treasure Savage Front Trainer
+ 97. Tsftrn1.ZIP   Free       10k  Treasure Savage Front Fix
+ 98. U7CODES.ZIP   Free        8k  Ultima VII Codes
+ 99.U7CR2INC.ZIP   Free        8k  Ultima VII Fix for 2nd Doc Check
+100. U7CRINC.ZIP   Free        8k  Ultima 7 Crack Patch           [INC]
+101.  U7EDIT.ZIP   Free       16k  Ultima VII Chacter Editor
+102. U7SOLVE.ZIP   Free      532k  Ultima 7 Solve & Save Game
+103. ULT7-HD.ZIP   Free       41k  Ultima 7 HD Patch                [THG]
+104. ULT7COM.ZIP   Free        6k  Ultima VII NFO File in Color
+105. ULT7DOX.ZIP   Free      213k  Ultima 7 Complete Documentation  [INC]
+106. ULT7DOX.ZIP   Free      213k  Ultima VII Complete Doxs - INC Doxs
+107.  ULTCIB.ZIP   Free       26k  Ultima Underworld Cibirus Dox
+108. ULTPLYR.ZIP   Free       41k  Ultima Underworld Player Guides
+109.ULTUNDOX.ZIP   Free      147k  Ultima Underworld Scanned Dox
+110.  Umsdox.ZIP   Free       45k  UMS II DOX
+111. Umspldx.ZIP   Free       46k  UMS II Planet Editor
+112. Uusatrn.ZIP   Free        3k  Ultima Underworld Trainer
+113. UUSATRN.ZIP   Free        3k  Ultima Underworld Trainer
+114.     Uwc.ZIP   Free       14k  Ultima Underworld Cheat
+115. Uwcheat.ZIP   Free        6k  Ultima Underworld Cheat
+116. UWCHEAT.ZIP   Free        6k  Ultima Underworld Cheat
+117.   UWDOX.ZIP   Free       33k  Ultima Underworld ASCII Dox
+118.Uweditor.ZIP   Free        9k  Ultima Underworld Character Editor
+119. Uwhnts1.ZIP   Free       22k  Ultima Underworld Hints
+120.Uwqckdox.ZIP   Free        5k  Ultima Underworld Quick Dox
+121.UWSPELLS.ZIP   Free        2k  Ultima Underworld Spell Book
+122.W3CHTINC.ZIP   Free        4k  Wolfenstien 3-D Cheat Codes Levels
+123.WOLF-FIX.ZIP   Free        2k  Wolfenstien 3-D Fix
+124.WOLFCHT2.ZIP   Free        7k  Castle Wolfenstien 3-D Cheat #2
+125. WOLFTRN.ZIP   Free        4k  Wolfenstien 3-D Trainer
+126. Wwrrdox.ZIP   Free        6k  Wild West Rail Road Dox
+127.X-DIZTRN.ZIP   Free       24k  Fantasy World Dizzy Trainer
+128.X-revtrn.ZIP   Free       22k  Revelation Trainer
+129.X-wp-trn.ZIP   Free       13k  Willys Pinball Trainer
+-------------------------------------------------------------------------
+ File Section:Demos
+-------------------------------------------------------------------------
+  1.ACESDEMO.ZIP   Free      566k  Aces of the Pacific Demo
+  2. B17DINC.ZIP   Free      219k  B-17 Flying Fortress Demo -=INC=-
+  3.DARKLINC.ZIP   Free     1364k  Darlands Demo                   [INC]
+  4.   DSINC.ZIP   Free      539k  Dark Seed Playable DEMO -=INC=-
+  5.   FLYBY.ZIP   Free      402k  Fly By VGA SB DEMO 1/1
+  6.FSE3DINC.ZIP   Free      177k  F-15 Strike Eagle III Demo -=INC=-
+  7. GATEWAY.ZIP   Free      914k  Gateway DEMO 1/1
+  8.GREENINC.ZIP   Free      275k  The Green DEMO                    [INC]
+  9.HEADBANG.ZIP   Free      450k  Head Banger DEMO 1/1
+ 10. INDY4_1.ZIP   Free      178k  Indy:Fate of Atlantis Demo 1/1
+ 11.OVERTREK.ZIP   Free      284k  OV-Trek #2 DEMO 1/1
+ 12. RBGDEMO.ZIP   Free      216k  Black Glass Vector DEMO 1/1
+ 13.  SF2BOB.ZIP   Free      196k  Street Fighter II BETA 1/1
+ 14.TFDEMINC.ZIP   Free      131k  Task Force 1942 DEMO              [INC]
+ 15. TRSILAT.ZIP   Free      337k  TRSI Demo
+ 16.UWDEMINC.ZIP   Free     1282k  Ultima Underworld  Demo -=INC=-
+-------------------------------------------------------------------------
+ File Section:Pirate Mags
+-------------------------------------------------------------------------
+  1.0392WARE.ZIP   Free        5k  March '92 Ware Report
+  2.APT-MAG3.ZIP   Free      254k  APT Magazine 3
+  3.   ILL-5.ZIP   Free      233k  Illumintus Mag #5
+  4.  SCD#14.ZIP   Free      160k  SCD Magazine Number 14
+  5.WILDSID4.ZIP   Free      185k  Wild Sider Magazine #4
+-------------------------------------------------------------------------
+ File Section:Utilities
+-------------------------------------------------------------------------
+  1. Dance_1.ZIP   Free      205k  Dance of the Planets            [1/4]
+  2. Dance_3.ZIP   Free      172k  Dance of the Planets            [3/4]
+  3. Dance_4.ZIP   Free      106k  Dance of the Planets            [4/4]
+  4.  KRACK2.EXE   Free       13k  Pkzip Password Stripper
+  5.Lafwinc1.ZIP   Free     1075k  Laffer Utilitys-Windows [1/4]   [INC]
+  6.Lafwinc2.ZIP   Free     1149k  Laffer Utilitys-Windows  [2/4]  [INC]
+  7.Lafwinc3.ZIP   Free     1057k  Laffer Utiltiys-Windows  [3/4]  [INC]
+  8.Lafwinc4.ZIP   Free      609k  Laffer Utilitys-Windows  [4/4]  [INC]
+  9.  SHEZ70.ZIP   Free      186k  Shez v7.0 Major Update 1/1
+ 10. SHEZ71R.ZIP   Free      190k  Shez v7.1 Registered 1/1
+-------------------------------------------------------------------------
+ File Section:INC Private
+-------------------------------------------------------------------------
+  1.     BAR.ZIP   Free        3k  For Bar Manager
+  2.    COOL.ZIP   Free        3k  For Cool Hand
+  3.     ILL.ZIP   Free        2k  For Illusinist from Bar Manager
+  4.    ILLU.ZIP   Priv        4k  For the Illusionist
+  5.     INC.NFO   Free        3k  Newest INCFO file!  Get it! 4/8/92!
+  6.  INCNEW.NFO   Free        3k  Latest Inc.Nfo file [4/11/92]
+  7. INCNEW1.NFO   Free        3k  INC Info File / Corrected 4/11/92
+  8.   MODED.ZIP   Priv      109k  MOD player and editor for Playboy
+  9. PLANNER.ZIP   Free      600k  A personal info/time mangement system
+ 10.   SETUP.EXE   Free       36k  Setup
+ 11.      XU.DOC   Free       22k  For Lestat
+ 12.      XU.EXE   Free        7k  For Lestat
+-------------------------------------------------------------------------
+ File Section:Stykx & Cool Hand
+-------------------------------------------------------------------------
+  1.    SHEZ.ZIP   Free      467k  My Shez Dir
+  2.    TAPE.ZIP   Free      198k  My Tape Dir

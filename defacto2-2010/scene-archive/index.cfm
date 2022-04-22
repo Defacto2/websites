@@ -1,0 +1,1 @@
+<cflocation addtoken="no" statuscode="301" url="/index.cfm">

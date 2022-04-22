@@ -1,0 +1,106 @@
+MoRE+DoD>  
+MoRE+DoD>  
+MoRE+DoD>  - The Truth about DVD CSS cracking by MoRE and [dEZZY/DoD] -
+MoRE+DoD>  ------------------------------------------------------------
+MoRE+DoD>  
+MoRE+DoD>  Date: 4th of November 1999.
+MoRE+DoD>  By:   [dEZZY/DoD], [MultiAGP & German dood of MoRE]
+MoRE+DoD>  
+MoRE+DoD>  This document is written cooperatively by the two groups
+MoRE+DoD>  that independently and simultaneously cracked the DVD Content
+MoRE+DoD>  Scrambling System, in order to straighten out mass media
+MoRE+DoD>  confusion.
+MoRE+DoD>  
+MoRE+DoD>  DoD  -> Drink or Die: "warez bearz from Russia and Beyond"
+MoRE+DoD>  MoRE -> Masters of Reverse Engineering
+MoRE+DoD>  
+MoRE+DoD>  [dEZZY/DoD] alone is the author of DoD DVD Speed Ripper.
+MoRE+DoD>  MoRE is a new group and they are the authors of DeCSS.
+MoRE+DoD>  
+MoRE+DoD>  Lately, Jon Johansen of MoRE has been pretty much all over
+MoRE+DoD>  the news in Norway, though he had NOTHING to do with the actual
+MoRE+DoD>  cracking of the DVD CSS protection. Yes, it was MoRE who did
+MoRE+DoD>  DeCSS, but the actual crack was not a team effort, MoRE didn't
+MoRE+DoD>  even exist back when the anonymous German (who is now a MoRE
+MoRE+DoD>  member) cracked it...
+MoRE+DoD>  
+MoRE+DoD>  Most of the papers chose a headline very similar to this:
+MoRE+DoD>          "15-year old Norwegian cracked the DVD-code".
+MoRE+DoD>  They probably did this because they wanted to make a big
+MoRE+DoD>  Norwegian "Wooohoooo" out of it. This was also pretty much
+MoRE+DoD>  the contents of the TV show "Vestfold-sendingen" where they
+MoRE+DoD>  brought up matters from Vestfold, Norway where Jon Johansen
+MoRE+DoD>  lives.
+MoRE+DoD>  
+MoRE+DoD>  In most newspapers they vagely included the name MoRE, and
+MoRE+DoD>  that DeCSS was a team effort, but neither MoRE nor DoD liked
+MoRE+DoD>  the headlines. Jon's comment on this matter is:
+MoRE+DoD>  "I never told the media that I had cracked the dvd encryption.
+MoRE+DoD>  What I told them, was that we (MoRE) had made an app called
+MoRE+DoD>  DeCSS which would decrypt dvd movies and let them be played
+MoRE+DoD>  off your hd, or off dvdrs if you have a dvd burner. I always
+MoRE+DoD>  used _we_ and _MoRE_ when talking to them. I never said anything
+MoRE+DoD>  about me or my position in the group.
+MoRE+DoD>   	Now that the storm is over, I see that all they were after,
+MoRE+DoD>  was to get a big story. They even included some of "my" quotes,
+MoRE+DoD>  which I never said. When media starts making up stuff, it's really
+MoRE+DoD>  sad. I know that this has been done before in Norwegian media,
+MoRE+DoD>  regarding the cooperation between a computer group at my school
+MoRE+DoD>  and the school people in charge of the network. All I can say is
+MoRE+DoD>  that I'm very sorry that the media twisted my words, and even lied,
+MoRE+DoD>  to make it appear as I had done the cracking myself. I'm pretty
+MoRE+DoD>  sure that I will do everything to avoid the media in the future,
+MoRE+DoD>  but if I'm forced to talk with them, I'll have to get them to
+MoRE+DoD>  sign an agreement. Again, I apologize on the behalf of Norwegian
+MoRE+DoD>  press, and I hope that this document will make everything clear.
+MoRE+DoD>  The truth shall set you free."
+MoRE+DoD>  
+MoRE+DoD>  DoD DVD Speed Ripper was developed by [dEZZY/DoD] at the 
+MoRE+DoD>  same time as DeCSS. The first release of DoD's app (which
+MoRE+DoD>  came out a couple of weeks before the first release of DeCSS)
+MoRE+DoD>  did not work with all (WB) titles, like The Matrix. This was
+MoRE+DoD>  known by [dEZZY/DoD] at the time of his release. MoRE decided
+MoRE+DoD>  to wait until they could fix this. In short time, [dEZZY/DoD]
+MoRE+DoD>  solved the problem and MoRE's top coder/disassembler from
+MoRE+DoD>  Germany used that information to get DeCSS working with every
+MoRE+DoD>  movie before they released it, along with a GUI. DeCSS was then
+MoRE+DoD>  the first application which decrypted ALL dvd titles, since DoD
+MoRE+DoD>  had not released a new version to the public. How MoRE got
+MoRE+DoD>  their hands on the information by [dEZZY/DoD], seems to have
+MoRE+DoD>  something to do with the Linux community...
+MoRE+DoD>  
+MoRE+DoD>  Why Drink or Die didn't want to release a new version so soon,
+MoRE+DoD>  was because warez sites nuke programs that are too close in
+MoRE+DoD>  release (minimum 2-3 weeks). Meanwhile when DeCSS came out, it
+MoRE+DoD>  caused DoD to delay any Windows release until a GUI version of
+MoRE+DoD>  their Speed Ripper was done. However, they released a Linux
+MoRE+DoD>  version of their ripper late October 1999. As for the new Windows
+MoRE+DoD>  version of the Speed Ripper, [dEZZY/DoD] has been very busy with
+MoRE+DoD>  his education and hence the ripper is extremely delayed.
+MoRE+DoD>  
+MoRE+DoD>  [dEZZY/DoD] already got the idea of reverse engineering a DVD
+MoRE+DoD>  player for the CSS code back in late summer 1998. He was not able
+MoRE+DoD>  to do it at the time since he did not have access to a DVDROM. In
+MoRE+DoD>  the beginning of 1999, MoRE's German member also got the idea.
+MoRE+DoD>  [dEZZY/DoD] and MoRE's German member got CSS decryption code
+MoRE+DoD>  working at the same time (middle of September 1999), without
+MoRE+DoD>  having shared info (although they knew about each other). After
+MoRE+DoD>  [dEZZY/DoD] solved "the problem", MoRE's German member, as stated
+MoRE+DoD>  above, implemented these changes and added them to DeCSS for
+MoRE+DoD>  release.
+MoRE+DoD>  
+MoRE+DoD>  Before DeCSS was developed and released, MoRE had already sent
+MoRE+DoD>  the source for the decryption to their contact in the Linux DVD
+MoRE+DoD>  community, Derek Fawcus <derek@spider.com>. This is the reason
+MoRE+DoD>  why one of Wired's news reporters was put on the case.
+MoRE+DoD>  
+MoRE+DoD>  [dEZZY/DoD] also had relations in the Linux DVD community (who
+MoRE+DoD>  does not want to be mentioned), but decided not to release the
+MoRE+DoD>  source code publicly (at least not for the moment).
+MoRE+DoD>  
+MoRE+DoD>  Enjoy the software!
+MoRE+DoD>  
+MoRE+DoD>  
+MoRE+DoD>  - Jon Johansen [MoRE]
+MoRE+DoD>  - anonymous German cracker [MoRE]
+MoRE+DoD>  - [dEZZY/DoD]

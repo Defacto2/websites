@@ -1,0 +1,25 @@
+Major League Baseball II - Osgood Slaughter                     8/3/89
+
+        A quick note about this game.  It's by no means a COMPLETE
+crack!  It is beyond me to finish the fix for this game.  Some things
+I did do was to convert the majority of disk #1 to files and add a loader
+to handle the INT 13's.  This will only work on a Hard Drive!  There are
+2 other disks out that allows you to manage the teams or something (I don't
+really know) but they are not supported here.  However this release will
+let you pick teams, and play the game normal.  You will NOT be allowed
+to save games!  The problem here is though a few executable files were
+present the game still uses the INT 13 to read in absolute sectors on
+the Master Disk (not crc checks but data!).  Basically for the game to
+run 'correctly' I would have needed to rewritten the entire executable file!
+If you're really a Major League Baseball fanatic then grab the snatch files
+that are floating around, they work fine!  I suppose this crack was just
+for those who wanted something quick and dirty!  I can't say the game
+was too impressive (CGA and No Adlib Support!) but whatever....
+
+                                                Regards,
+                                                Osgood Slaughter
+
+PS.  Greetings to the other cracking clubs, and all-around-slap-arounds
+     to those boys in TEXAS!
+
+

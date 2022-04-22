@@ -1,0 +1,6 @@
+Hi, Gang.  To get this one working on Hard Disk, copy the file bubble.exe
+to the subdirectory of your choice, then make a subdirectory called GRF_BUBB
+off of that one.  Unarc the archive GRF_BUBB.ARC in that directory.  Finally,
+use the RUNME.BAT to execute the game.
+
+							Mr. Transistor

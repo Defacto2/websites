@@ -1,0 +1,109 @@
+===============================================================================
+            Gamestar's FACE OFF! -- Cracked 10/19/1989 by THE FiRM
+===============================================================================
+
+  FACE OFF! is a well done hockey simulation that supports CGA/EGA/MCGA/VGA and
+TANDY-1000 graphics modes as well as MT32/ADLIB/TANDY sound systems.  Since I
+personally enjoy hockey just as much as I do pro-wrestling, I'll leave it to
+someone else to decide how much fun it is...
+
+  The original game was copy-protected with a 'doc-check' which relied upon a
+bunch of cute little 'info-boxes' scattered throughout the original manual...
+Seems like a real waste of paper and ink to me, so I removed that restriction
+for good...
+
+  To start the game, type FACEOFF followed by one of the following graphics
+options:
+
+                              CGA  (4-color)
+                              EGA  (16-color)
+                              MCGA (256-color)
+                              VGA  (256-color)
+                              TAN  (16-color)
+
+  Optionally followed by one of the following sound options:
+
+                         MT32    (Roland MT32 midi-board)
+                         ADLIB   (Adlib midi-board)
+                         TANDY   (Tandy sound)
+                         SPEAKER (Internal PC speaker)
+                         /S      (No sound - silent game)
+
+  For example, to play the game with EGA graphics and an Adlib-midi, use:
+
+                             FACEOFF EGA ADLIB
+
+  (Note: You can get a list of the above options by typing FACEOFF ?.)
+
+
+-------------------------------------------------------------------------------
+CONTROLS:
+
+  The basic controls determine the skating directions and an additional
+'action' button.  On joysticks, direction is obvious and the action button
+is button #1.  Since the game supports 2-players, the keyboard is mapped as
+follows:
+
+
+               KEYBOARD #1                        KEYBOARD #2
+          [7]      [8]      [9]              [Q]      [W]      [E]
+            \       |       /                  \       |       /
+               \    |    /                        \    |    /
+                  \ | /                              \ | /
+          [4] - - -[5]- - - [6]              [A] - - -[S]- - - [D]
+                  / | \                              / | \
+               /    |    \                        /    |    \
+            /       |       \                  /       |       \
+          [1]      [2]      [3]              [Z]      [X]      [C]
+
+
+  ACTIONS                     KEYBOARD #1            KEYBOARD #2
+  --------------------------------------------------------------------------
+  Pass, shoot, check          ENTER, 5, KEYPAD-0     S, SPACEBAR, LEFT-SHIFT
+  Change lines                BACKSPACE              TAB
+  Call plays from playbook    8, 9, 0, - (top row)   1, 2, 3, 4 (top row)
+  Pull/reinstate goaltender   =                      5 (top row)
+
+
+               [Ctrl][P]   = Pause (press ENTER to resume)
+               [Ctrl][Q]   = Quit
+               [Ctrl][S]   = Toggle sound ON/OFF
+               [Ctrl][ESC] = Instant return to DOS
+               [Ctrl][X]   = Instant return to DOS
+               [ESC]       = Previous menu
+               [F1]        = Toggle screen scrolling ON/OFF
+               [F2]        = Toggle full screen display ON/OFF
+               [SPACEBAR]  = Call up menu options during a Faceoff
+
+
+  To skate backwards, start moving in a direction, then return the joystick
+to 'netural', (or release key on keyboard), then quickly begin moving again
+in the same direction.
+
+  To begin a fight, quickly click your action button twice in retaliation to
+a body-check from your opponent.  You'll see a close-up, on-ice view of the
+two combatants.  Use the movement keys in combination with the action button
+to throw punches, and without the action button to block.  Holding the action
+button longer invokes a headlock when upper punches are thrown and extra
+punishment when lower punches are thrown.  The fight will only last for four
+seconds before it is broken up...
+
+-------------------------------------------------------------------------------
+
+
+  Enjoy!!!
+
+
+                **********************************************
+                 *  FiRM greetings to crackers everywhere!  *
+                  *  And thanks again to Lord Ironwolffe!  *
+                   ****************************************
+
+
+                           ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                           ³ The Software Surgeon ³
+                           ÀÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÙ
+                              -=ð³ THE FiRM ³ð=-
+                                 ÀÄÄÄÄÄÄÄÄÄÄÙ
+
+

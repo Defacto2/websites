@@ -1,0 +1,6 @@
+Hi, Again! - In order to run this correctly, you have to edit the file
+RESOURCE.S and change the disk drive references from C: to the particular
+drive you are running the game from.  It may be "installed" by copying the
+files from both archives to any given subdirectory.
+
+						Mr. Transistor

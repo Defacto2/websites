@@ -1,0 +1,9 @@
+
+     Simply delete the current titan.com file and rename the titanfrm.com file
+contained in this .ZIP file to titan.com and copy it into the directory where
+the game is and run.  When you play now, you'll see a ball and you break
+down walls and such....have fun.
+
+R.J. MacReady
+/s
+(heh, thought it was a message)
